@@ -32,3 +32,26 @@
 - Prototype
 	- 3D Print a smaller scaled Prototype
 	- Test/Finalize Software (on Arduino)
+
+### SUBCASE 3
+- Preliminary Design
+	- Goals
+	- Functionalities
+- Conceptual Design
+	- Declare Analyses Types To Be Tested On
+	- Pass/Fail Criteria
+	- Design Freeze 1
+	- FEA to Redesign
+	- Redesign to FEA
+	- ...
+	- Conclude On Geometry (Design Freeze 2)
+	- Hardware Design (Mechatronics)
+		- Declare Electronics
+		- PCB Design
+		- Software (Part or Whole)
+- Prototype
+	- 3D Print a smaller scaled Prototype
+	- Test/Finalize Software (on Arduino)
+	- AIV (for Subsystems)
+		- 1:1 Scale prototypes
+		- Non-detailed Assembly procedures
