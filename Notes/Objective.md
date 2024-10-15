@@ -1,0 +1,34 @@
+### SUBCASE 1
+- Preliminary Design
+	- Goals
+	- Theoretical Geometrical Design
+	- Functionalities
+- Conceptual Design
+	- Declare Analyses Types To Be Tested On
+	- FEA to Redesign
+	- Redesign to FEA
+	- ...
+	- Conclude On Geometry (Design Freeze)
+- AIV (Whole or for a Subsystem)
+	- 3D Print 1:1 Prototype
+	- Assembly Procedures
+	- Verification
+
+### SUBCASE 2
+- Preliminary Design
+	- Goals
+	- Functionalities
+- Conceptual Design
+	- Declare Analyses Types To Be Tested On
+	- Design Freeze 1
+	- FEA to Redesign
+	- Redesign to FEA
+	- ...
+	- Conclude On Geometry (Design Freeze 2)
+	- Hardware Design (Mechatronics)
+		- Declare Electronics
+		- PCB Design
+		- Software (Part or Whole)
+- Prototype
+	- 3D Print a smaller scaled Prototype
+	- Test/Finalize Software (on Arduino)
