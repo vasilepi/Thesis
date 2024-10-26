@@ -74,8 +74,10 @@
 - Maneuverability Expertise
 	- Implement Sensors
 	- Implement Configurable tracks
-	![[Pasted image 20241019180405.png]]
-	![[Pasted image 20241019183453.png]]
+   
+	![image](https://github.com/user-attachments/assets/0a32c83b-94a8-4fea-9932-a6067d3eb4fa)
+
+	![image](https://github.com/user-attachments/assets/545b8981-ca23-4600-892a-8fd769d8510d)
 	- Implement mechanisms to help when robot is unable to move (turns up-side-down, flip sideways)
 
 
@@ -99,9 +101,9 @@
 	5. Revisit weight budget after motor selection
 5. Preliminary Design
 	1. First Geometry Iteration (CAD)
-		1. `While pass/fail criteria are not met
-			1. `Calculate subparts (gears, bolt connections, bearings, shafts)
-			2. `Fix Geometry
+		1. `While pass/fail criteria are not met`
+			1. `Calculate subparts (gears, bolt connections, bearings, shafts)`
+			2. `Fix Geometry`
 			3. `break`
 	2. Final Geometry Iteration (CAD)
 		1. Inertia Matrix
@@ -110,7 +112,8 @@
 	4. Structural Analysis
 		1. Scenarios 
 			1. Subparts analyses (tbd)
-				1. MoS calculation$$MoS = \frac{Stress\; Limit}{Stress\; Applied \cdot SF} - 1$$
+				1. MoS calculation
+       					 $$MoS = \frac{Stress\ Limit}{Stress\ Applied \cdot SF} - 1$$
 			2. Road Excitation - Transient (road profile tbd)
 		2. Improvements based on analysis results
 	5. Conclude on design
