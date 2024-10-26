@@ -33,5 +33,6 @@ Fails if the $MoS\le1$
 
 
 ## Time Plan
-Put the gantt file [here](https://www.onlinegantt.com/#/gantt)
+![image](https://github.com/user-attachments/assets/c54281eb-5d3e-416a-9ac8-e0669fdab438)
+
 
