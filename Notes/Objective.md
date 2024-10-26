@@ -32,5 +32,5 @@ Fails if the $MoS\le1$
 
 
 ## Time Plan
-Put the [file](<C:\Users\Vasilis\Documents\Obsidian Vault\THESIS\Online Gantt 20241026.gantt>) [here](https://www.onlinegantt.com/#/gantt)
+Put the gantt file [here](https://www.onlinegantt.com/#/gantt)
 
