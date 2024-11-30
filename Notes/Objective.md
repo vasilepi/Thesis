@@ -25,6 +25,8 @@
 - The robot's average battery life should be at least 1 day
 - The robot should have a safety factor of 2 for all the components except critical components where the safety factor should be 3
 - The robot must implement a storage box that can carry up to $5\ kg$ medical/food/rescue supplies. In more detail the storage should be no greater than $20\times 18\times 10\ cm^3$
+- The robot will be semi-autonomous. The need of an operator will be madatory in key specific circumstances (e.g. obstacle negotiation, victim localization).
+- The robot should be designed to be capable of rescuing victims from earthquake disasters, bulding debris, burning buildings.
 
 
 ## Pass/Fail Criteria
