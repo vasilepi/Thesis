@@ -15,3 +15,4 @@
 16. [Resquake robot](https://www.researchgate.net/publication/245367033_ResQuake_A_Tele-Operative_Rescue_Robot)
 17. [Plasma RX-19](https://www.researchgate.net/publication/224441658_Plasma-RX_Autonomous_Rescue_robots)
 18. [Reconfigurable robot](https://www.researchgate.net/publication/262912864_A_Reconfigurable_USAR_Robot_Designed_for_Traversing_Complex_3D_Terrain)
+19. [Gear tooth profile](https://www.researchgate.net/publication/266794877_Optimization_of_Tooth_Root_Profile_of_Spur_Gears_for_Maximum_Load-Carrying_Capacity)
