@@ -1,7 +1,17 @@
-1. https://robomechjournal.springeropen.com/articles/10.1186/s40648-020-00188-9
-2. https://www.sciencedirect.com/science/article/pii/S2666359724000295
-3. https://ieeexplore.ieee.org/document/4059030
-4. https://ms.copernicus.org/articles/12/1115/2021/
-5. https://ieeexplore.ieee.org/document/5354452
-6. https://www.mdpi.com/2076-3417/12/23/12348
-7. https://ieeexplore.ieee.org/document/4412417
+1. [Karo Mobile Robot](https://robomechjournal.springeropen.com/articles/10.1186/s40648-020-00188-9)
+3. [Mobile rolling robots designed to overcome obstacles: A review](https://www.sciencedirect.com/science/article/pii/S2666359724000295)
+4. [Design and Manufacturing of a Mobile Rescue Robot](https://ieeexplore.ieee.org/document/4059030)
+5. [Six wheeled companion robot](https://ms.copernicus.org/articles/12/1115/2021/)
+6. [Helios system](https://ieeexplore.ieee.org/document/5354452)
+7. [Transformable wheels robot](https://www.mdpi.com/2076-3417/12/23/12348)
+8. [Transformable tracks robot](https://ieeexplore.ieee.org/document/4412417)
+9. [SEARCH & RESCUE OPERATIONS IN EARTHQUAKES](https://oasp.gr/sites/default/files/library/2021-02/Search%20%26%20Rescue%20Operations%20in%20Earthequakes.pdf)
+10. [A Comprehensive Design of Unmanned Ground Search and Rescue Robot](file:///C:/Users/Vasilis/Downloads/jicvol14no1paper07.pdf)
+11. [Rocker Bogie Robot](file:///C:/Users/Vasilis/Downloads/Conceptual_Design_of_an_Autonomous_Rescu.pdf)
+12. [Design features and characteristics of a rescue robot](https://ieeexplore.ieee.org/document/1567056)
+13. [Barrier-crossing Design of the Inspection Robot in Substation with Wheel-Track](https://www.researchgate.net/publication/301448278_Barrier-crossing_Design_of_the_Inspection_Robot_in_Substation_with_Wheel-Track)
+14. [Design and Ground Performance Evaluation of a Multi-Joint Wheel-Track Composite Mobile Robot for Enhanced Terrain Adaptability](https://www.mdpi.com/2076-3417/13/12/7270)
+15. [Adora robot](https://www.emerald.com/insight/content/doi/10.1108/01439911111154045/full/pdf?title=design-and-manufacturing-of-a-teleoperative-rescue-robot-with-a-novel-track-arrangement)
+16. [Resquake robot](https://www.researchgate.net/publication/245367033_ResQuake_A_Tele-Operative_Rescue_Robot)
+17. [Plasma RX-19](https://www.researchgate.net/publication/224441658_Plasma-RX_Autonomous_Rescue_robots)
+18. [Reconfigurable robot](https://www.researchgate.net/publication/262912864_A_Reconfigurable_USAR_Robot_Designed_for_Traversing_Complex_3D_Terrain)
