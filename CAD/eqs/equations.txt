@@ -1,0 +1,10 @@
+﻿"shaft-diameter" =20mm
+"key-length"=12mm
+"key-width"=4mm
+"flippershaft-wormgear-diameter" = 35mm
+"shaft-ring-groove-depth"=0.5mm
+"shaft-ring-groove-width" = 1.3mm
+"mini-shaft-diameter" = 12mm
+"mini-flipper-shaft-diameter"= 26mm
+"mini-shaft-ring-groove-diam"= 7.8mm
+"mini-shaft-ring-groove-width"= 1mm
