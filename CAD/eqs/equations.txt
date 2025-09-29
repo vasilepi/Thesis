@@ -1,0 +1,3 @@
+﻿"mini-flipper-shaft-diameter"= 26mm
+"mini-shaft-ring-groove-diam"= 7.8mm
+"mini-shaft-ring-groove-width"= 1mm
