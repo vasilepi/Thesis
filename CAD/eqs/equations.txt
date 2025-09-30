@@ -1,4 +1,4 @@
-﻿"mini-flipper-shaft-diameter"= 26mm
-"mini-shaft-ring-groove-diam"= 7.8mm
-"mini-shaft-ring-groove-width"= 1mm"dtCoverPlate-DistFrom-GearCent" = 73mm
-"wormGearShaft-L" = "dtCoverPlate-DistFrom-GearCent" - 27.75 + 3.75"wormGearShaft-Dsmall" = 6mm"wormGearShaft-Dworm" = 12mm
+﻿"wormL-D" = 12mm
+"wormR-D" = 15mm
+"wormGearL-D" = 40mm
+"wormGearR-D" = 50mm
