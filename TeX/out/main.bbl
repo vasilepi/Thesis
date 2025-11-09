@@ -1,0 +1,130 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{plasmaRX19}{article}{}{}
+      \name{author}{16}{}{%
+        {{hash=b3fe69520ff629f8e03835e78cedf547}{%
+           family={Chuengsatiansup},
+           familyi={C\bibinitperiod},
+           given={Kamol},
+           giveni={K\bibinitperiod}}}%
+        {{hash=820764e5beba598e67a81d9138def8a0}{%
+           family={Sajjapongse},
+           familyi={S\bibinitperiod},
+           given={Krittanai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=572a63bdcdac7c0f08e4b747052fe8b1}{%
+           family={Kruapraditsiri},
+           familyi={K\bibinitperiod},
+           given={Phartara},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cc007f99de0cc2dcf043496bacc187e3}{%
+           family={Chanma},
+           familyi={C\bibinitperiod},
+           given={Chanin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2f6bd39275c9d09bffecf631d3df46be}{%
+           family={Termthanasombat},
+           familyi={T\bibinitperiod},
+           given={Nawarat},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f29467101777cf76023876ee78b40c53}{%
+           family={Suttasupa},
+           familyi={S\bibinitperiod},
+           given={Yuttana},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2cb03d53eaa0c27a8c79850b207db37e}{%
+           family={Sattaratnamai},
+           familyi={S\bibinitperiod},
+           given={Sukhum},
+           giveni={S\bibinitperiod}}}%
+        {{hash=caa9fa6e23e401308cb23932f1660c69}{%
+           family={Pongkaew},
+           familyi={P\bibinitperiod},
+           given={Ekkaluk},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c6a7c777fcb2a3b321db8f230d841618}{%
+           family={Udsatid},
+           familyi={U\bibinitperiod},
+           given={Pakorn},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f7641f28a71655ce75f6dff56e9b3332}{%
+           family={Hattha},
+           familyi={H\bibinitperiod},
+           given={Borirak},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b5f88c3cbd0658470db7a12e33c9406a}{%
+           family={Wibulpolprasert},
+           familyi={W\bibinitperiod},
+           given={Panut},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9bf3aa4ac517bdd0e1a27b71c1530748}{%
+           family={Usaphapanus},
+           familyi={U\bibinitperiod},
+           given={Prasit},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ac2e492d613a8b4663246e84c3d425c0}{%
+           family={Tulyanon},
+           familyi={T\bibinitperiod},
+           given={Nantinee},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4d380c8641143083e39e14bf98f82dc7}{%
+           family={Wongsaisuwan},
+           familyi={W\bibinitperiod},
+           given={Manop},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3c062eacf3e34c7a9d5f2e76ff0a3e95}{%
+           family={Wannasuphoprasit},
+           familyi={W\bibinitperiod},
+           given={Witaya},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f1841b14c9d6aa7ab8568491c245bd71}{%
+           family={Chongstitvatana},
+           familyi={C\bibinitperiod},
+           given={Prabhas},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2922a65aba0e652299151806a82527c0}
+      \strng{fullhash}{19a1c9eab036867574c051c19f061aed}
+      \strng{fullhashraw}{19a1c9eab036867574c051c19f061aed}
+      \strng{bibnamehash}{2922a65aba0e652299151806a82527c0}
+      \strng{authorbibnamehash}{2922a65aba0e652299151806a82527c0}
+      \strng{authornamehash}{2922a65aba0e652299151806a82527c0}
+      \strng{authorfullhash}{19a1c9eab036867574c051c19f061aed}
+      \strng{authorfullhashraw}{19a1c9eab036867574c051c19f061aed}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{Plasma-RX: Autonomous Rescue robots}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{1986\bibrangedash 1990}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ROBIO.2009.4913305
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

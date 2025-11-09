@@ -1,0 +1,42 @@
+\documentclass{report}
+
+\input{preamble}
+
+\begin{document}
+
+\input{title}
+
+\tableofcontents
+
+\begin{abstract}
+    \input{sections/abstract}
+\end{abstract}
+
+\begin{otherlanguage}{english}
+\begin{abstract}
+    \input{sections/abstractEng}
+\end{abstract}
+\end{otherlanguage}
+
+\chapter{Εισαγωγή}
+\input{sections/intro}
+
+\chapter{Προκαταρτικός Σχεδιασμός}
+\input{sections/conceptual.tex}
+
+
+\chapter{Διαμορφωτικός Σχεδιασμός}
+\input{sections/preliminary.tex}
+
+\chapter{Συμπεράσματα και Μελλοντική Έρευνα}
+\input{sections/conclusion.tex}
+
+
+\listoffigures
+\listoftables
+
+\printbibliography
+\nocite{*}
+
+
+\end{document}
