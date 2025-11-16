@@ -1,7 +1,16 @@
-1. https://robomechjournal.springeropen.com/articles/10.1186/s40648-020-00188-9
-2. https://www.sciencedirect.com/science/article/pii/S2666359724000295
-3. https://ieeexplore.ieee.org/document/4059030
-4. https://ms.copernicus.org/articles/12/1115/2021/
-5. https://ieeexplore.ieee.org/document/5354452
-6. https://www.mdpi.com/2076-3417/12/23/12348
-7. https://ieeexplore.ieee.org/document/4412417
+1. [robot designs](https://www.sciencedirect.com/science/article/pii/S2666359724000295)
+2. [mobile rescue robot](https://ieeexplore.ieee.org/document/4059030)
+3. [saro earthquakes](https://oasp.gr/sites/default/files/library/2021-02/Search%20%26%20Rescue%20Operations%20in%20Earthequakes.pdf)
+4. [arad rescue robot](https://nasu-periodicals.org.ua/index.php/science/article/view/2139)
+5. [multi-joint track](https://www.mdpi.com/2076-3417/13/12/7270)
+6. [resquake](https://www.researchgate.net/publication 245367033_ResQuake_A_Tele-Operative_Rescue_Robot)
+7. [plasma rx19](https://www.researchgate.net/publication/224441658_Plasma-RX_Autonomous_Rescue_robots)
+8. [performance standards for usar robots](https://www.nist.gov/publications/performance-standards-urban-search-and-rescue-robots-0)
+9. [features of rescue robots](https://ieeexplore.ieee.org/document/1567056)
+10. [karo](https://robomechjournal.springeropen.com/articles/10.1186/s40648-020-00188-9)
+11. [unmaned rescue robot](https://www.researchgate.net/publication/332767268_A_Comprehensive_Design_of_Unmanned_Ground_Search_and_Rescue_Robot)
+12. [machine design handbook](https://archive.org/details/standard-handbook-of-machine-design_20230313/page/n1237/mode/2up)
+13. [gear friction](https://khkgears.net/new/gear_knowledge/gear_technical_reference/surface-durability-worm-gear.html)
+14. [conceptual design of rescue robot](https://www.academia.edu/89966302/Conceptual_Design_of_an_Autonomous_Rescue_Bot_for_Assistance_During_Natural_Disaster_Rescue_Operations)
+
+

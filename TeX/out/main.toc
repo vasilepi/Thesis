@@ -18,20 +18,23 @@
 \contentsline {subsection}{\numberline {2.2.2}Μηχανικές απαιτήσεις}{2}{subsection.2.2.2}%
 \contentsline {section}{\numberline {2.3}Ισοζύγιο μάζας}{2}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Αρχικός σχεδιασμός συστήματος κίνησης}{2}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Αναθεώρηση σχεδιασμού ρομποτικού διασώστη}{2}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Αναθεώρηση διαστάσεων}{2}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Μείωση μάζας}{2}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}Σχεδιασμός σώματος και τελικό ισοζύγιο μάζας}{2}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.2}Αναθεώρηση διαστάσεων ρομποτικού διασώστη}{2}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Μείωση μάζας}{2}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Σχεδιασμός σώματος και αποθήκης ειδών πρώτης ανάγκης}{2}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Αναθεώρηση σχεδιασμού συστήματος κίνησης και τελικό ισοζύγιο μάζας}{2}{subsection.2.3.5}%
 \contentsline {section}{\numberline {2.4}Ισοζύγιο ισχύος και εκλογή κινητήρων}{2}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Σχεδιασμός ηλετκτρικού κυκλώματος}{2}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Απαιτήσεις ροπής και επιλογή κινητήρων}{2}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Επιλογή μπαταριών και εκτίμηση χρόνου λειτουργίας}{2}{subsection.2.4.3}%
 \contentsline {chapter}{\numberline {3}Διαμορφωτικός Σχεδιασμός}{3}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Σκοπός διαμορφωτικού σχεδιασμού}{3}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Ανάλυση μηχανολογικλών στοιχείων}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Ανάλυση μηχανολογικών στοιχείων}{3}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Ανάλυση οδοντωτών τροχών}{3}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Ανάλυση εδράνων κύλισης}{3}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Λοιπά μηχανολογικά στοιχεία}{3}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Ανάλυση στοιχείων με χρήση λογισμικού}{3}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας οδοντοκίνησεων}{3}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας εδράσεων}{3}{subsection.3.3.2}%
 \contentsline {chapter}{\numberline {4}Συμπεράσματα και Μελλοντική Έρευνα}{4}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Προβλήματα που αντιμετωπίστηκαν}{4}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Συμπεράσματα}{4}{section.4.2}%
