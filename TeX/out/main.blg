@@ -1,18 +1,18 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'out\main.blg'
-[89] biber-MSWIN64:340> INFO - === 
-[124] Biber.pm:420> INFO - Reading 'out\main.bcf'
-[209] Biber.pm:991> INFO - Using all citekeys in bib section 0
-[220] Biber.pm:4463> INFO - Processing section 0
-[229] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
-[288] bibtex.pm:1713> INFO - LaTeX decoding ...
-[311] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
-[404] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[404] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[404] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'el-GR'
-[404] Biber.pm:4289> INFO - No sort tailoring available for locale 'el-GR'
-[417] bbl.pm:676> INFO - Writing 'out\main.bbl' with encoding 'UTF-8'
-[426] bbl.pm:779> INFO - Output to out\main.bbl
-[427] Biber.pm:131> WARN - legacy month field '2006-06-26' in entry 'standardsForUSARRobots' is not an integer - this will probably not sort properly.
-[427] Biber.pm:131> WARN - legacy month field 'Apr.' in entry 'aradRobot' is not an integer - this will probably not sort properly.
-[427] Biber.pm:133> INFO - WARNINGS: 2
+[92] biber-MSWIN64:340> INFO - === 
+[128] Biber.pm:420> INFO - Reading 'out\main.bcf'
+[213] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[223] Biber.pm:4463> INFO - Processing section 0
+[234] Biber.pm:4654> INFO - Looking for bibtex file 'bib.bib' for section 0
+[295] bibtex.pm:1713> INFO - LaTeX decoding ...
+[320] bibtex.pm:1519> INFO - Found BibTeX data source 'bib.bib'
+[411] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[411] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[411] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'el-GR'
+[411] Biber.pm:4289> INFO - No sort tailoring available for locale 'el-GR'
+[426] bbl.pm:676> INFO - Writing 'out\main.bbl' with encoding 'UTF-8'
+[436] bbl.pm:779> INFO - Output to out\main.bbl
+[436] Biber.pm:131> WARN - legacy month field '2006-06-26' in entry 'standardsForUSARRobots' is not an integer - this will probably not sort properly.
+[436] Biber.pm:131> WARN - legacy month field 'Apr.' in entry 'aradRobot' is not an integer - this will probably not sort properly.
+[436] Biber.pm:133> INFO - WARNINGS: 2
