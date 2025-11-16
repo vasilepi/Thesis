@@ -165,6 +165,34 @@
       \verb 10.1109/ROBIO.2009.4913305
       \endverb
     \endentry
+    \entry{designArgyris}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7cdade06d3a6542e63bf2c46b2be9ba7}{%
+           family={Dentsoras},
+           familyi={D\bibinitperiod},
+           given={Argiris},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Εκδ. Τζιόλα}%
+      }
+      \strng{namehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{fullhash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{fullhashraw}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{bibnamehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authorbibnamehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authornamehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authorfullhash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authorfullhashraw}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{subtitle}{Μια Μεθοδολογική Προσέγγιση Για Σχεδιαστές Μηχανικούς}
+      \field{title}{Εισαγωγή Στη Θεωρία Σχεδιασμού}
+      \field{year}{2022}
+    \endentry
     \entry{unmanned}{article}{}{}
       \name{author}{6}{}{%
         {{hash=78c74373e6cb5fffb84c8aa037ddaee4}{%
@@ -464,7 +492,7 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{2006-06-26}
+      \field{month}{06}
       \field{title}{Performance Standards for Urban Search and Rescue Robots}
       \field{year}{2006}
       \true{nocite}

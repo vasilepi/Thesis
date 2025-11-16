@@ -12,5 +12,6 @@
 12. [machine design handbook](https://archive.org/details/standard-handbook-of-machine-design_20230313/page/n1237/mode/2up)
 13. [gear friction](https://khkgears.net/new/gear_knowledge/gear_technical_reference/surface-durability-worm-gear.html)
 14. [conceptual design of rescue robot](https://www.academia.edu/89966302/Conceptual_Design_of_an_Autonomous_Rescue_Bot_for_Assistance_During_Natural_Disaster_Rescue_Operations)
+15. [θεωρια σχεδιασμου](https://www.tziola.gr/book/eisagogi-sti-theoria-sxediasmou/)
 
 
