@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  16 NOV 2025 21:46
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  11 DEC 2025 22:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1482,21 +1482,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
 [3
 
-])
+]
+File: media/designTimeplan.png Graphic file (type bmp)
+<media/designTimeplan.png>
+
 
 [4]
 
 [5]
+File: media/sensorData.png Graphic file (type bmp)
+<media/sensorData.png>
+)
+
+[6]
+
+[7]
 Κεφάλαιο 3.
 (./sections/preliminary.tex)
 
-[6
+[8
 
 ]
 Κεφάλαιο 4.
 (./sections/conclusion.tex)
 
-[7
+[9
 
 ] (out/main.lof)
 \tf@lof=\write7
@@ -1504,7 +1514,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
 
 
-[8
+[10
 
 ] (out/main.lot)
 \tf@lot=\write8
@@ -1512,7 +1522,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
 
 
-[9
+[11
 
 ]
 Overfull \hbox (19.31857pt too wide) in paragraph at lines 39--39
@@ -1526,7 +1536,7 @@ Overfull \hbox (19.6424pt too wide) in paragraph at lines 39--39
 
 
 
-[10
+[12
 
 ] (out/main.aux)
  ***********
@@ -1534,18 +1544,18 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B27CA8A7DA15B6D0AC032ABE38FDC3B7;12112.
+(rerunfilecheck)             Checksum: 06882883BFFF888234925AC018FDFFDA;12120.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37876 strings out of 470267
- 765787 string characters out of 5488342
- 1579913 words of memory out of 5000000
- 63843 multiletter control sequences out of 15000+600000
+ 37896 strings out of 470267
+ 766297 string characters out of 5488342
+ 1580138 words of memory out of 5000000
+ 63861 multiletter control sequences out of 15000+600000
  639798 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,127p,1447b,5364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.pdf (14 pages).
+Output written on out/main.pdf (16 pages).
