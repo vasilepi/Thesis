@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  13 DEC 2025 20:12
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  13 DEC 2025 23:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1519,9 +1519,36 @@ Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:scrip
 [7]
 File: media/flipperTrack.png Graphic file (type bmp)
 <media/flipperTrack.png>
-)
+File: media/flipperPerk1.png Graphic file (type bmp)
+<media/flipperPerk1.png>
+
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/flipperPerk2.png Graphic file (type bmp)
+<media/flipperPerk2.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/flipperPerk3.png Graphic file (type bmp)
+<media/flipperPerk3.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+
 
 [8]
+File: media/flipUp1.png Graphic file (type bmp)
+<media/flipUp1.png>
+
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/flipUp2.png Graphic file (type bmp)
+<media/flipUp2.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/flipUp3.png Graphic file (type bmp)
+<media/flipUp3.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+)
 
 [9]
 Κεφάλαιο 3.
@@ -1577,10 +1604,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37968 strings out of 470267
- 768006 string characters out of 5488342
- 1585210 words of memory out of 5000000
- 63927 multiletter control sequences out of 15000+600000
+ 38037 strings out of 470267
+ 769549 string characters out of 5488342
+ 1585065 words of memory out of 5000000
+ 63990 multiletter control sequences out of 15000+600000
  639798 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,127p,1618b,6337s stack positions out of 10000i,1000n,20000p,200000b,200000s
