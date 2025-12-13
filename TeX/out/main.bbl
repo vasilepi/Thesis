@@ -289,7 +289,6 @@
       \field{title}{Design and Ground Performance Evaluation of a Multi-Joint Wheel-Track Composite Mobile Robot for Enhanced Terrain Adaptability}
       \field{volume}{13}
       \field{year}{2023}
-      \true{nocite}
       \verb{doi}
       \verb 10.3390/app13127270
       \endverb
@@ -331,7 +330,6 @@
       \field{title}{Mobile rolling robots designed to overcome obstacles: A review}
       \field{volume}{16}
       \field{year}{2024}
-      \true{nocite}
       \field{pages}{100283}
       \range{pages}{1}
       \verb{doi}
@@ -581,6 +579,47 @@
       \field{year}{2020}
       \true{nocite}
     \endentry
+    \entry{b2p2}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6c68629e7c9be22cbb889d8d6595e55d}{%
+           family={Paillat},
+           familyi={P\bibinitperiod},
+           given={Jean-Luc},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=4c4c3cc761fd25a7dfeba4e9f6469d68}{%
+           family={Lucidarme},
+           familyi={L\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ea53257f0f47ff823faa4cabf0ba465e}{%
+           family={Hardouin},
+           familyi={H\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{fullhash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{fullhashraw}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{bibnamehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authorbibnamehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authornamehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authorfullhash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authorfullhashraw}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Robotics}
+      \field{month}{01}
+      \field{title}{Original Design of an Unmanned Ground Vehicle for Exploration in Rough Terrain}
+      \field{volume}{24}
+      \field{year}{2010}
+      \field{pages}{255\bibrangedash 276}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1163/016918609X12586221919482
+      \endverb
+    \endentry
     \entry{aradRobot}{article}{}{}
       \name{author}{2}{}{%
         {{hash=a254a91c1f49cefa71aba49294d9534e}{%
@@ -674,6 +713,68 @@
       \field{note}{[Accessed 16-11-2025]}
       \field{title}{{S}urface {D}urability of {W}orm {G}ear | {K}{H}{K} --- khkgears.net}
       \true{nocite}
+    \endentry
+    \entry{transWheel}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=a42ffc6566bc74fce9dd129df41b29b1}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1ad6518b007b36cf5c66fc92460f6d66}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Chunyan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9007cb34e2e8709b394ffa5f43a293b8}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Yusheng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3d84a0588d65b7d38eb25ebe6036a58e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Manhong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0a557b36e7345b724336ba9e4f1c2f60}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Minglu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b89270fdeb487898739d9bc001e1656}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Dongle},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{fullhash}{f624e8c80afd3eb6c66e02410c50765c}
+      \strng{fullhashraw}{f624e8c80afd3eb6c66e02410c50765c}
+      \strng{bibnamehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{authorbibnamehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{authornamehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{authorfullhash}{f624e8c80afd3eb6c66e02410c50765c}
+      \strng{authorfullhashraw}{f624e8c80afd3eb6c66e02410c50765c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this research, we propose a novel wheel-legged mobile robot to address the problems of insufficient obstacle-crossing performance and poor motion flexibility of mobile robots in non-structural environments. Firstly, we designed the transformable wheel mechanism and tail adaptive mechanism. Secondly, the kinematic model of the robot is established and solved by analyzing the whole motion and wheel-legged switching motion for the operation requirements under different road conditions. By synthesizing the constraint relationships among the modules and analyzing the robot’s obstacle-crossing abilities, we systematically established the mechanical model of the robot when it encounters obstacles. Thirdly, we studied the stability of the robot based on the stable cone method in the case of slope and unilateral transformation wheel deployment and achieved the tipping condition in the critical state. Finally, we used ADAMS software to simulate and analyze the driving process of the robot in various types of terrain and obstacles in order to verify that it has superior performance through obstacles and motion flexibility. The analysis shows that the robot can passively adapt to various complex and variable obstacle-filled terrains with obstacle heights which are much higher than its center of gravity range. The results of the study can provide a reference for the structural optimization and the obstacle-crossing performance improvement of mobile robots.}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{23}
+      \field{title}{Analysis of Motion Characteristics and Stability of Mobile Robot Based on a Transformable Wheel Mechanism}
+      \field{volume}{12}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/app122312348
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/12/23/12348
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/12/23/12348
+      \endverb
     \endentry
     \entry{featuresOfRescueRobots}{inproceedings}{}{}
       \name{author}{2}{}{%

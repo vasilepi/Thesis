@@ -2373,7 +2373,12 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">designArgyris</bcf:citekey>
-    <bcf:citekey order="2" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">mobileRobots</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">b2p2</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">transWheel</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">multiJoint</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">multiJoint</bcf:citekey>
+    <bcf:citekey order="8" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
