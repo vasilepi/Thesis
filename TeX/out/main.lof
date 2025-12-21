@@ -3,15 +3,27 @@
 \contentsline {figure}{\numberline {2.1}{\ignorespaces \xpg@aux {}{greek}Διάφοροι ρομποτικοί διασώστες γαι ξεχωριστές λειτουργίες. Από αριστερά προς τα δεξιά: άμεσος ρομποτικός διασώστης, ρομπότ αρωγής ανθρώπινων αποστολών, ρομπότ έρευνας και ανίχνευσης.}}{4}{figure.caption.2}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces \xpg@aux {}{greek}Γενικότερη πορεία σχεδιασμού και σταδίων της μελέτης.}}{5}{figure.caption.4}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces \xpg@aux {}{greek}Δυνατότητες ανίχνευσης ρομποτικού διασώστη με βάση το διαφορετικό είδος δεδομένων.}}{6}{figure.caption.5}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces \xpg@aux {}{greek}Μηχανικά μέρη ερπυστρίας.}}{7}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \xpg@aux {}{greek}Μηχανικά μέρη ερπυστρίας.}}{8}{figure.caption.7}%
 \contentsline {figure}{\numberline {2.5}{\ignorespaces \xpg@aux {}{greek}Σύγκριση διαφορετικών ειδών ερπύστριας.}}{8}{figure.caption.8}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces \xpg@aux {}{greek}Συστήματα κίνησης μεταβλητής γεωμετρίας.}}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \xpg@aux {}{greek}Συστήματα κίνησης μεταβλητής γεωμετρίας.}}{9}{figure.caption.9}%
 \contentsline {figure}{\numberline {2.7}{\ignorespaces \xpg@aux {}{greek}Σύστημα πολλαπλής ερπύστριας με περιστρεφόμενο βραχίονα \blx@tocontentsinit {0}\cite {multiJoint}.}}{9}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces \xpg@aux {}{greek}Σενάρια κίνησης συστήματος με διπλή ερπύστρια και περιστρεφόμενο βραχίονα (\textit {Flipper}).}}{9}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces \xpg@aux {}{greek}Αλληλουχία επαναφοράς πλατφόρμας από ανατροπή με τη χρήση των flippers.}}{9}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces \xpg@aux {}{greek}Μέθοδοι αλλαγής κατεύθυνσης πλατφόρμας με τέσσερεις τροχούς.}}{10}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \xpg@aux {}{greek}Σενάρια κίνησης συστήματος με διπλή ερπύστρια και περιστρεφόμενο βραχίονα (\textit {Flipper}).}}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \xpg@aux {}{greek}Αλληλουχία επαναφοράς πλατφόρμας από ανατροπή με τη χρήση των flippers.}}{10}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \xpg@aux {}{greek}Μέθοδοι αλλαγής κατεύθυνσης πλατφόρμας με τέσσερεις τροχούς.}}{11}{figure.caption.14}%
 \contentsline {figure}{\numberline {2.11}{\ignorespaces \xpg@aux {}{greek}Ρομποτική πλατφόρμα Plasma RX. Στα αριστερά το Xiphias και στα δεξιά το RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{11}{figure.caption.16}%
 \contentsline {figure}{\numberline {2.12}{\ignorespaces \xpg@aux {}{greek}Σύστημα κίνησης ερπύστριας και βραχιόνων της πλατφόρμας Plasma RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{12}{figure.caption.18}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces \xpg@aux {}{greek}Τομή συστήματος κίνησης Plasma RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{12}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces \xpg@aux {}{greek}Τομή συστήματος κίνησης Plasma RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{13}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces \xpg@aux {}{greek}Αρχική γεωμετρία για τη πρώτη επανάληψη του ισοζυγίου μάζας.}}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces \xpg@aux {}{greek}Αρχικό σκαρίφημα κιβωτίο κίνησης.}}{14}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατο σχέδιο κύριας ατράκτου \textit {v1}.}}{14}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces \xpg@aux {}{greek}Περιστρεφόμενος βραχίονας \textit {v1}.}}{15}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces \xpg@aux {}{greek}Κιβώτιο κίνησης και σασί πλατφόρμας V.L.A.D. \textit {v1}.}}{16}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces \xpg@aux {}{greek}Στοιχεία ερπύστριας \textit {v1}.}}{16}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces \xpg@aux {}{greek}Πρώτη εκδοχή της συναρμολογημένης πλατφόρμας V.L.A.D.}}{17}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces \xpg@aux {}{greek}Πρώτη εκδοχή συναρμολογημένου διασώστη, δίχως τη παρουσία των ερπυστρίων.}}{17}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces \xpg@aux {}{greek}Σενάρια κίνησης πρώτης εκδοχής πλατφόρμας V.L.A.D.}}{17}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces \xpg@aux {}{greek}Δευτερεύων σύστημα κίνησης πλατφόρμας.}}{18}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces \xpg@aux {}{greek}Τομή συναρμολογημένης διάταξης κύριου συστήματος κίνησης \textit {v1}.}}{19}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces \xpg@aux {}{greek}Τομή συναρμολογημένης διάταξης δευτερέυων συστήματος κίνησης \textit {v1}.}}{19}{figure.caption.34}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
