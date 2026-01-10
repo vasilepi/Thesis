@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  25 DEC 2025 14:43
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  10 JAN 2026 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1714,21 +1714,28 @@ File: media/bombackV1.png Graphic file (type bmp)
 
 [20]
 
-[21])
+[21]
 
 [22]
+File: media/stairClimb.png Graphic file (type bmp)
+<media/stairClimb.png>
+File: media/flipCond.png Graphic file (type bmp)
+<media/flipCond.png>
 
-[23]
+
+[23])
+
+[24]
 Κεφάλαιο 3.
 (./sections/preliminary.tex)
 
-[24
+[25
 
 ]
 Κεφάλαιο 4.
 (./sections/conclusion.tex)
 
-[25
+[26
 
 ] (out/main.lof)
 \tf@lof=\write7
@@ -1736,7 +1743,7 @@ File: media/bombackV1.png Graphic file (type bmp)
 
 
 
-[26
+[27
 
 ] (out/main.lot)
 \tf@lot=\write8
@@ -1744,7 +1751,7 @@ File: media/bombackV1.png Graphic file (type bmp)
 
 
 
-[27
+[28
 
 ]
 Overfull \hbox (19.31857pt too wide) in paragraph at lines 39--39
@@ -1758,7 +1765,7 @@ Overfull \hbox (19.6424pt too wide) in paragraph at lines 39--39
 
 
 
-[28
+[29
 
 ] (out/main.aux)
  ***********
@@ -1772,12 +1779,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38360 strings out of 470267
- 776051 string characters out of 5488342
- 1595587 words of memory out of 5000000
- 64285 multiletter control sequences out of 15000+600000
+ 38382 strings out of 470267
+ 776567 string characters out of 5488342
+ 1597834 words of memory out of 5000000
+ 64305 multiletter control sequences out of 15000+600000
  647846 words of font info for 148 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,127p,1618b,6337s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.pdf (32 pages).
+Output written on out/main.pdf (33 pages).
