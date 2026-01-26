@@ -1182,6 +1182,27 @@ Thermal Camera & - & 1 & 200.0 & 200.0 \\
     \label{fig:stab}
 \end{figure}
 
+Όπως παρατηρείται παρακάτω, οι δύο σταθεροποιητές εδράζονται στην άτρακτο του ατέρμονα κοχλία, έχοντας τη σταθερή έδραση προς την αντίθετη κατεύθυνση από το σημείο εφαρμογής της ροπής από τον κινητήρα. Αυτό συμβαίνει για διευκόλυνση της συναρμολόγησης της διάταξης. Στη συναρμολόγηση, η άτρακτος εισέρχεται εντός του σταθεροποιητή από την εξωτερική του οπή και εδράζεται στην κινητό έδρανο της διάταξης, που είναι ήδη εφαρμοζμένο στον σταθεροποιητή. Οι κοχλίες σύσφιξης του καμπτικού συνδέσμου θα πρέπει να συσφιχθούν αφού φορεθεί η άτρακτος, επομένως ο αποστάτης που προεξέχει από τη πλάκα ένωσης δεν αντισκέται περιμετρικά στο έδρανο κύλισης αλλά σε ένα τόξο $270 ^\circ$, αφήνοντας άνοιγμα για το εργαλείο σύσφιξης των κοχλιών.
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}{0.45\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{media/sup1.png}
+        \caption{Άνω σταθεροποιητής.}
+        \label{fig:sup1}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.45\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{media/supp1.png}
+        \caption{Κάτω σταθεροποιητής.}
+        \label{fig:supp1}
+    \end{subfigure}
+    \caption{Τομές συναρμολογημένων διατάξεων άνω και κάτω σταθεροποιητών.}
+    \label{fig:suppp}
+\end{figure}
+
 \par Εφόσον πλεόν, έχουν ορισθεί ορθά οι εδράσεις σε όλα τα σημεία του συστήματος κίνησης, θα πρέπει να επιλεχθούν τα έδρανα και τα λοιπά μηχανολογικά στοιχεία που ικανοποιούν τα κριτήρια του σχεδιασμού. Για τα έδρανα κύλισης επιλέγονται πάλι από τη βιβλίοθήκη της SKF, σφαιρικά έδρανα κύλισης που ικανοποιούν τις διαστάσεις του σχεδιασμού. Σχετικά με τα περικόχλια ατράκτου, αυτά επιλέγονται από τη βιβλιοθήκη της McMaster Carr και της MISUMI. Ο εύκαμπτος σύνδεσμος αξόνων επιλέγεται και αυτός από τον κατάλογο της McMaster Carr.
 
 \begin{figure}[H]
@@ -1373,6 +1394,217 @@ Thermal Camera & - & 1 & 30.0 & 30.0 \\
 \section{Ισοζύγιο ισχύος και εκλογή κινητήρων}
 
 \subsection{Απαιτήσεις ροπής και εκλογή κινητήρων}
+
+Έχοντας πλέον τη συνολική εκτιμώμενη μάζα της πλατφόρμας V.L.A.D., για να κλείσει το κεφάλαιο του προκαταρτικού σχεδιασμού, πρέπει να επιλεχθούν κινητήρες για τη κύρια ερπύστρια αλλά και για τους βραχίονες. Αρχικά πρέπει να γίνει εκτίμηση της απαιτούμενης ροπής για τους δύο κινητήρες.
+Σχετικά με τον κινητήρα της κύριας ερπύστριας, αυτός θα πρέπει να είναι ικανός για εκκίνηση σε κεκλιμένο επίπεδο. Πιο συγκεκριμένα της μέγιστης εκλεγμένης γωνίας κεκλιμένου $a = 50^\circ$.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\linewidth]{media/torque1.png}
+    \caption{Υπολογισμός ροπής κινητήρα κύριας ερπύστριας.}
+    \label{fig:torque1}
+\end{figure}
+
+Για να υπολογιστεί η ροπή, απαιτείται ο γεωμετρικός ορισμός των οδοντοκινήσεων. Ορίζοντας αρχικά, τη διάμετρο του τροχού κίνησης της ερπύστριας $D_s = 130\;mm$ και υποθέτοντας μια ταχύτητα ως στόχο της πλατφόρμας στα $V = 200 mm/s$, μπορούν να υπολογιστούν μερικά γεωμετρικά μεγέθη παρακάτω.
+\par Ορίζεται επίσης η κύρια διάμετρος της οδοντοκίνησης του οδοντωτού τροχού της ατράκτου $D_G = 46\; mm$ και η απόσταση των κέντρων του ατέρμονα και του γραναζιού ως $C = 29\;mm $. Θεωρώντας μία οδόντωση με μία εκκίνηση για τον ατέρμονα $N_W = 1$ και ένα βήμα για την οδόντωση του γραναζιού $p_G = 0.61 \; teeth/mm$, προκύπτει ο αριθμός δοντιών του τροχού:
+\begin{equation}
+N_G = ROUND(p_G\cdot D_2)
+\end{equation}
+
+Επίσης, από την απόσταση των κεντρών μπορεί να προκύψει η κύρια διάμετρος της οδόντωσης του ατέρμονα:
+\begin{equation}
+D_W = 2\cdot C - D_G
+\end{equation}
+
+Το αξονικό βήμα του ατέρμονα είναι:
+\begin{equation}
+p_x = \pi \cdot \frac{D_2}{N_G}
+\end{equation}
+
+Μπορεί λοιπόν να προκύψει η γραμμική απόσταση που διανύει ένα σημείο σε πλήρη περιστροφή του ατέρμονα (πρόωση):
+\begin{equation}
+L = p_x \cdot N_W
+\end{equation}
+
+
+Έτσι, προκύπτει η γωνία ελίκωσης του ατέρμονα:
+\begin{equation}
+\lambda = arctan(\frac{L}{\pi \cdot D_W})
+\end{equation}
+
+Στη συνέχεια, προκύπτει η κάθετη γωνία πίεσης της οδόντωσης ακολουθώντας τις συστάσεις του συγγράματος των Shigley J. κ.ά. \cite{handbook} για την επιλογή της $\phi_n$ συναρτήσει της γωνίας ελίκωσης με σκοπό την αποφυγή του φαινομένου της υποκοπής:
+\begin{equation}
+    \phi_n = \begin{cases} 
+      20^{\circ} & \text{if } \lambda < 30^{\circ} \\
+      25^{\circ} & \text{if } 30^{\circ} \leq \lambda \leq 45^{\circ}
+    \end{cases}
+\end{equation}
+
+Τέλος, πρέπει να υπολογιστεί ο συντελεστής τριβής. Με την υπόθεση της ταχύτητας μπορεί να προκύψει η περιστροφική ταχύτητα του τροχού:
+\begin{equation}
+n_G = 60\frac{V}{\pi \cdot D_G}
+\end{equation}
+
+Έχοντας τον αριθμό των δοντιών της συγκεκριμένης οδοντοκίνησης μπορεί να προκύψει η σχέση μετάδοσης που προκύπτει ξέροντας ότι ο κινητήριος τροχός είναι ο ατέρμονας:
+\begin{equation}
+i _D = \frac{D_G}{D_W}
+\end{equation}
+
+
+Μέσω της σχέσης μετάδοσης υπολογίζεται πλεόν η περιστροφική ταχύτητα του ατέρμονα:
+\begin{equation}
+n_W = n_G \cdot i_D
+\end{equation}
+
+Και έτσι προκύπτει η ταχύτητα ολίσθησης της οδοντοκίνησης ως:
+\begin{align}
+V_W &= \frac{D_W \cdot n_W \cdot \pi }{60}\\
+
+V_s &= \frac{V_W}{cos\lambda}
+\end{align}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\linewidth]{media/Vs.png}
+    \caption{Συνιστώσες ταχύτητας σε μια οδοντοκίνηση ατέρμονα - τροχού.}
+    \label{fig:Vs}
+\end{figure}
+
+Έχοντας πλέον τη ταχύτητα ολίσθησης μπορεί να υπολογιστεί ο συντελεστής τριβής της οδοντοκίνησης από το \ref{fig:mu}.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\linewidth]{media/mu.png}
+    \caption{Συντελεστής τριβής συναρτήσει της ταχύτητας ολίσθησης. Θεωρείται επαρκής λίπανση. Η άνω καμπύλη αναφέρεται σε μη επισκληρημένα υλικά οδοντώσεων ενώ η κάτω σε βέλτιστα υλικά οδοντοκίνησης ατέρμονα - τροχού \cite{handbook}.}
+    \label{fig:mu}
+\end{figure}
+
+Υπολογίζεται τελικά παρακάτω η αποδοτικότητα της οδοντοκίνησης:
+\begin{equation}
+\eta_D = \frac{cos\phi_n - \mu tan\lambda}{cos\phi_n + \mu cot\lambda}
+\end{equation}
+
+
+Από το \ref{fig:torque1}, προκύπτει ότι η απαιτούμενη δύναμη ώθησης του κινητήρα για εκκίνηση σε κεκλιμένο επίπεδο, θεωρώντας πολύ μικρή επιτάχυνση της πλατφόρμας, είναι:
+\begin{align}
+
+F_W &= W_{tot} \cdot sina\\
+F_{Fr} &= \mu_a \cdot W_{tot} \cdot  cosa\\
+
+F_{trac} &= F_{Fr} + F_W\\
+\end{align}
+Όπου, $\mu_a$ είναι ο συντελεστής τριβής της ασφάλτου με το υλικό του πέλματος της ερπύστριας (Rubber), και $W_{tot}$, το συνολικό βάρος της κατασκευής. Επομένως, η απαιτούμενη ροπή του κινητήρα της ερπύστριας υπολογίζεται μέσω της απαιτούμενης ροπής της ατράκτου $T_D = F_{trac} \cdot \frac{D_s}{2}$ και της σχέσης μετάδοσης της οδοντοκίνησης:
+\begin{equation}
+Τ_{Μ_D} = \frac{F_{trac} \cdot R_s}{i_D\cdot \eta_D}
+\end{equation}
+
+
+Με εντελώς όμοιο τρόπο, προκύπτουν και η σχέση μετάδοσης $i_F$ και απόδοσης $\eta_F$ της οδοντοκίνησης του βραχίονα, θεωρώντας, $C = 32.5\; mm$, $D_G = 50\;mm$, $p_G = 0.5\; teeth/mm$, $n_W = 1$. O κινητήρας του βραχίονα θα πρέπει να είναι ικανός να ανασηκώσει το βάρος του διασώστη από μηδενική γωνία του βραχίονα με το έδαφος. Όταν δηλαδή ο βραχίονας προσπαθεί να ανασηκώσει τη πλατφόρμα όντας πλήρως επιμηκυνμένος.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\linewidth]{media/torque2.png}
+    \caption{Υπολογισμός ροπής κινητήρα βραχίονα.}
+    \label{fig:torque1}
+\end{figure}
+
+Από το νόμο των συνημιτόνων:
+\begin{equation}
+\frac{sin\phi}{l_{B_{tot}}} = \frac{sin\theta}{l_{F_{tot}}}
+\end{equation}
+
+Προκύπτει εν τέλει απαιτούμενη ροπή της ατράκτου του βραχίονα:
+\begin{equation}
+T_{F} = w_F \cdot cos\theta \cdot l_F + w_F \cdot sin \phi \cdot h_F + w_B \cdot cos\theta\cdot l_B -w_B \cdot sin\theta \cdot h_B + \mu \cdot w_F \cdot cos\phi \cdot l_{F_{tot}} - \mu\cdot w_B \cdot cos\phi \cdot  l_{B_{tot}}
+\end{equation}
+
+Επομένως, υποθέτοντας πολύ μικρή γωνιακή επιτάχυνση η απαιτούμενη ροπή του κινητήρα προκύπτει:
+\begin{equation}
+Τ_{Μ_F} = \frac{T_{F}}{i_F\cdot \eta_F}
+\end{equation}
+
+
+Στον \ref{tab:calcTorque} φαίνονται οι υπολογισμοί για τις απαιτούμενες ροπές των κινητήρων. Με βάση τα παρακάτω επιλέγονται κινητήρες από την MAXON που ικανοποιούν τόσο τις απαιτήσεις χώρου αλλά και τις απαιτήσεις ροπής. Τα μοντέλα που επιλέχθηκαν είναι οι κινητήρες συνεχούς ρεύματος \textbf{EC-i 579165 52} και \textbf{EC-i 666603 40} για την \textbf{ερπύστρια} και τον \textbf{βραχίονα} αντίστοιχα.
+
+\begin{table}[H]
+    \centering
+    \rowcolors{2}{gray}{white}
+\begin{tabular}{|c|c|c|}
+\hline
+\rowcolor{Periwinkle}
+Variable & Symbol & Calculation\\
+\hline
+\rowcolor{Dandelion}
+\multicolumn{3}{|c|}{Tracks Gear Interface}\\
+\hline
+Worm Pitch Diameter & $D_W^T\; [mm]$ & 12\\
+\hline
+Worm Lead Angle & $\lambda^T\; [^\circ]$ & 7.8\\
+\hline
+Tracks Gear Ratio & $i_D$ & 28\\
+\hline
+Tracks Gear Efficiency & $\eta_D\; [\%]$ & 60.94\\
+\hline
+\rowcolor{Dandelion}
+\multicolumn{3}{|c|}{Flipper Gear Interface}\\
+\hline
+Worm Pitch Diameter & $D_W^F\; [mm]$ & 15\\
+\hline
+Worm Lead Angle & $\lambda^F\; [^\circ]$ & 7.59\\
+\hline
+Tracks Gear Ratio & $i_F$ & 25\\
+\hline
+Tracks Gear Efficiency & $\eta_F\; [\%]$ & 63.52\\
+\hline
+\rowcolor{Dandelion}
+\multicolumn{3}{|c|}{Motors Torque}\\
+\hline
+Main Shaft Torque Required &  $T_D\; [Nm]$ & 6.203\\
+\hline
+Tracks Motor Torque Required &  $T_{M_D}\; [Nm]$ & 0.364\\
+\hline
+Flipper Shaft Torque Required &  $T_F\; [Nm]$ & 3.375\\
+\hline
+Flipper Motor Torque Required &  $T_{M_D}\; [Nm]$ & 0.213\\
+\hline
+\end{tabular}
+\caption{Υπολογισμοί απαιτούμενης ροπής κινητήρων.}
+\label{tab:calcTorque}
+\end{table}
+
+Υπολογίζοντας ένα περιθώριο ασφάλειας για τον κάθε κινητήρα ως:
+\begin{equation}
+MoS\; [\%] = \frac{\text{Nominal Motor Torque}}{\text{Required Torque}} - 1
+\end{equation}
+
+
+\begin{table}[H]
+    \centering
+    \rowcolors{2}{gray}{white}
+        \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \rowcolor{Dandelion}
+        Part Number & Shell Diameter & Wattage  & Max Continuous Torque & $MoS$\\
+        \hline
+        EC-i 579165 52 & $\varnothing 52\;mm$ &$180\; W$ & $0.423\; Nm$ & $16\%$\\
+        \hline
+        EC-i 666603 40 & $\varnothing 40\;mm$ &$130\; W$ & $0.343\; Nm$ & $46\%$ \\
+        \hline
+        \end{tabular}
+    \caption{Επιλεγμένοι κινητήρες συνεχούς ρεύματος της πλατφόρμας V.L.A.D.}
+    \label{tab:motors}
+\end{table}
+
+real motor weight added to massbudget
+
+
+
+
+
+
+
+
+
+
+
+
 
 \subsection{Σχεδιασμός κυκλώματος ηλεκτρονικών}
 

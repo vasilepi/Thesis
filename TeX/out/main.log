@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  18 JAN 2026 17:41
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  26 JAN 2026 22:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1238,7 +1238,11 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))))
 \@quotelevel=\count477
 \@quotereset=\count478
- (out/main.aux)
+ (out/main.aux
+
+LaTeX Warning: Label `fig:torque1' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/notomi/m/it on input line 5.
@@ -1841,8 +1845,20 @@ File: media/stab3.png Graphic file (type bmp)
 <media/stab3.png>
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/sup1.png Graphic file (type bmp)
+<media/sup1.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/supp1.png Graphic file (type bmp)
+<media/supp1.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+
+
+[33]
 File: media/v21.png Graphic file (type bmp)
 <media/v21.png>
+
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
 File: media/v22.png Graphic file (type bmp)
@@ -1861,20 +1877,20 @@ File: media/notracksV22.png Graphic file (type bmp)
 <media/notracksV22.png>
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
-
-
-[33]
 File: media/v2full.png Graphic file (type bmp)
 <media/v2full.png>
-
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
 File: media/v2TOP.png Graphic file (type bmp)
 <media/v2TOP.png>
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+
+
+[34]
 File: media/v2Full2.png Graphic file (type bmp)
 <media/v2Full2.png>
+
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
 File: media/v2Full3.png Graphic file (type bmp)
@@ -1883,23 +1899,47 @@ Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:scri
 Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
 
 
-[34])
-
 [35]
+File: media/torque1.png Graphic file (type bmp)
+<media/torque1.png>
+
+
+[36]
+
+[37]
+File: media/Vs.png Graphic file (type bmp)
+<media/Vs.png>
+File: media/mu.png Graphic file (type bmp)
+<media/mu.png>
+
+Missing character: There is no Τ ("3A4) in font notomi!
+Missing character: There is no Μ ("39C) in font notomi!
+File: media/torque2.png Graphic file (type bmp)
+<media/torque2.png>
+
+
+[38]
+Missing character: There is no Τ ("3A4) in font notomi!
+Missing character: There is no Μ ("39C) in font notomi!
+
+
+[39])
+
+[40]
 Κεφάλαιο 3.
 (./sections/preliminary.tex)
 
-[36
+[41
 
 ]
 Κεφάλαιο 4.
 (./sections/conclusion.tex)
 
-[37
+[42
 
 ] (out/main.lof
 
-[38
+[43
 
 ])
 \tf@lof=\write7
@@ -1907,13 +1947,13 @@ Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:scrip
 
 
 
-[39] (out/main.lot)
+[44] (out/main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
 
 
-[40
+[45
 
 ]
 Overfull \hbox (19.31857pt too wide) in paragraph at lines 39--39
@@ -1927,13 +1967,17 @@ Overfull \hbox (19.6424pt too wide) in paragraph at lines 39--39
 
 
 
-[41
+[46
 
 ] (out/main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 70C41A11A01641C50F5011C34F77753A;12878.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1941,12 +1985,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38764 strings out of 470267
- 784126 string characters out of 5488342
- 1603234 words of memory out of 5000000
- 64651 multiletter control sequences out of 15000+600000
+ 38831 strings out of 470267
+ 785385 string characters out of 5488342
+ 1604234 words of memory out of 5000000
+ 64713 multiletter control sequences out of 15000+600000
  647862 words of font info for 150 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,13n,127p,1618b,6337s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,13n,127p,1618b,6338s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.pdf (45 pages).
+Output written on out/main.pdf (50 pages).

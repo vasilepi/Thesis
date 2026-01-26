@@ -701,7 +701,6 @@
       \field{edition}{3}
       \field{title}{Standard Handbook of Machine Design}
       \field{year}{2004}
-      \true{nocite}
     \endentry
     \entry{khk}{misc}{}{}
       \field{sortinit}{S}
