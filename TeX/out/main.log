@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  26 JAN 2026 22:35
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.23)  27 JAN 2026 21:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1238,11 +1238,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))))
 \@quotelevel=\count477
 \@quotereset=\count478
- (out/main.aux
-
-LaTeX Warning: Label `fig:torque1' multiply defined.
-
-)
+ (out/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/notomi/m/it on input line 5.
@@ -1911,35 +1907,114 @@ File: media/Vs.png Graphic file (type bmp)
 <media/Vs.png>
 File: media/mu.png Graphic file (type bmp)
 <media/mu.png>
-
-Missing character: There is no Τ ("3A4) in font notomi!
-Missing character: There is no Μ ("39C) in font notomi!
 File: media/torque2.png Graphic file (type bmp)
 <media/torque2.png>
 
 
 [38]
-Missing character: There is no Τ ("3A4) in font notomi!
-Missing character: There is no Μ ("39C) in font notomi!
 
+[39]
+File: media/motMap1.png Graphic file (type bmp)
+<media/motMap1.png>
 
-[39])
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/motMap2.png Graphic file (type bmp)
+<media/motMap2.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/mdriver1.png Graphic file (type bmp)
+<media/mdriver1.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+File: media/mdriver2.png Graphic file (type bmp)
+<media/mdriver2.png>
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ʹ (U+02B9) in font GFS Artemisia Italic/OT:script=grek;language=dflt;!
+
 
 [40]
+File: media/elec.png Graphic file (type bmp)
+<media/elec.png>
+
+
+[41]
+Missing character: There is no ​ (U+200B) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ‍ (U+200D) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ​ (U+200B) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ‌ (U+200C) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ‍ (U+200D) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ​ (U+200B) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ‍ (U+200D) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+Missing character: There is no ‌ (U+200C) in font GFS Artemisia Regular/OT:script=grek;language=dflt;!
+
+
+[42]
+LaTeX Font Info:    Font shape `OT1/NotoSerif-TLF/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 1761.
+LaTeX Font Info:    Font shape `OT1/NotoSerif-TLF/b/n' will be
+(Font)              scaled to size 6.56995pt on input line 1761.
+LaTeX Font Info:    Font shape `OT1/NotoSerif-TLF/b/n' will be
+(Font)              scaled to size 4.94997pt on input line 1761.
+LaTeX Font Info:    Font shape `OML/notomi/b/it' will be
+(Font)              scaled to size 10.0pt on input line 1761.
+LaTeX Font Info:    Font shape `OML/notomi/b/it' will be
+(Font)              scaled to size 7.3pt on input line 1761.
+LaTeX Font Info:    Font shape `OML/notomi/b/it' will be
+(Font)              scaled to size 5.5pt on input line 1761.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1761.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 7.3pt on input line 1761.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 5.5pt on input line 1761.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1761.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 7.3pt on input line 1761.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 5.5pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 10.0pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 7.3pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxmia/b/it' will be
+(Font)              scaled to size 5.5pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 7.3pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxsym/b/n' will be
+(Font)              scaled to size 5.5pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 7.3pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxsyc/b/n' will be
+(Font)              scaled to size 5.5pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 7.3pt on input line 1761.
+LaTeX Font Info:    Font shape `U/ntxexa/b/n' will be
+(Font)              scaled to size 5.5pt on input line 1761.
+)
+
+[43]
 Κεφάλαιο 3.
 (./sections/preliminary.tex)
 
-[41
+[44
 
 ]
 Κεφάλαιο 4.
 (./sections/conclusion.tex)
 
-[42
+[45
 
 ] (out/main.lof
 
-[43
+[46
 
 ])
 \tf@lof=\write7
@@ -1947,13 +2022,13 @@ Missing character: There is no Μ ("39C) in font notomi!
 
 
 
-[44] (out/main.lot)
+[47] (out/main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
 
 
-[45
+[48
 
 ]
 Overfull \hbox (19.31857pt too wide) in paragraph at lines 39--39
@@ -1967,17 +2042,13 @@ Overfull \hbox (19.6424pt too wide) in paragraph at lines 39--39
 
 
 
-[46
+[49
 
 ] (out/main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 70C41A11A01641C50F5011C34F77753A;12878.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1985,12 +2056,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38831 strings out of 470267
- 785385 string characters out of 5488342
- 1604234 words of memory out of 5000000
- 64713 multiletter control sequences out of 15000+600000
- 647862 words of font info for 150 fonts, out of 8000000 for 9000
+ 38923 strings out of 470267
+ 787055 string characters out of 5488342
+ 1605055 words of memory out of 5000000
+ 64790 multiletter control sequences out of 15000+600000
+ 660060 words of font info for 174 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,13n,127p,1618b,6338s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/main.pdf (50 pages).
+Output written on out/main.pdf (53 pages).

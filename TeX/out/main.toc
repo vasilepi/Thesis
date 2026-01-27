@@ -31,17 +31,17 @@
 \contentsline {section}{\numberline {2.4}Ισοζύγιο ισχύος και εκλογή κινητήρων}{36}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Απαιτήσεις ροπής και εκλογή κινητήρων}{36}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Σχεδιασμός κυκλώματος ηλεκτρονικών}{40}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Επιλογή μπαταριών και εκτίμηση χρόνου λειτουργίας}{40}{subsection.2.4.3}%
-\contentsline {chapter}{\numberline {3}Διαμορφωτικός Σχεδιασμός}{41}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Σκοπός διαμορφωτικού σχεδιασμού}{41}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Ανάλυση μηχανολογικών στοιχείων}{41}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Ανάλυση οδοντωτών τροχών}{41}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Ανάλυση εδράνων κύλισης}{41}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Λοιπά μηχανολογικά στοιχεία}{41}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}Ανάλυση στοιχείων με χρήση λογισμικού}{41}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας οδοντοκίνησεων}{41}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας εδράσεων}{41}{subsection.3.3.2}%
-\contentsline {chapter}{\numberline {4}Συμπεράσματα και Μελλοντική Έρευνα}{42}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Προβλήματα που αντιμετωπίστηκαν}{42}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Συμπεράσματα}{42}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Προτάσεις για μελλοντική έρευνα}{42}{section.4.3}%
+\contentsline {subsection}{\numberline {2.4.3}Επιλογή μπαταριών και εκτίμηση χρόνου λειτουργίας}{42}{subsection.2.4.3}%
+\contentsline {chapter}{\numberline {3}Διαμορφωτικός Σχεδιασμός}{44}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Σκοπός διαμορφωτικού σχεδιασμού}{44}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Ανάλυση μηχανολογικών στοιχείων}{44}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Ανάλυση οδοντωτών τροχών}{44}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Ανάλυση εδράνων κύλισης}{44}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Λοιπά μηχανολογικά στοιχεία}{44}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Ανάλυση στοιχείων με χρήση λογισμικού}{44}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας οδοντοκίνησεων}{44}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας εδράσεων}{44}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}Συμπεράσματα και Μελλοντική Έρευνα}{45}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Προβλήματα που αντιμετωπίστηκαν}{45}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Συμπεράσματα}{45}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Προτάσεις για μελλοντική έρευνα}{45}{section.4.3}%
