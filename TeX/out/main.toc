@@ -36,12 +36,11 @@
 \contentsline {section}{\numberline {3.1}Σκοπός διαμορφωτικού σχεδιασμού}{44}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Ανάλυση μηχανολογικών στοιχείων}{44}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Ανάλυση οδοντωτών τροχών}{44}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Ανάλυση εδράνων κύλισης}{44}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Λοιπά μηχανολογικά στοιχεία}{44}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}Ανάλυση στοιχείων με χρήση λογισμικού}{44}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας οδοντοκίνησεων}{44}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας εδράσεων}{44}{subsection.3.3.2}%
-\contentsline {chapter}{\numberline {4}Συμπεράσματα και Μελλοντική Έρευνα}{45}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Προβλήματα που αντιμετωπίστηκαν}{45}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Συμπεράσματα}{45}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Προτάσεις για μελλοντική έρευνα}{45}{section.4.3}%
+\contentsline {subsection}{\numberline {3.2.2}Λοιπά μηχανολογικά στοιχεία}{46}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Ανάλυση στοιχείων με χρήση λογισμικού}{46}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας οδοντοκίνησεων}{46}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας εδράσεων}{48}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}Συμπεράσματα και Μελλοντική Έρευνα}{49}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Προβλήματα που αντιμετωπίστηκαν}{49}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Συμπεράσματα}{49}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Προτάσεις για μελλοντική έρευνα}{49}{section.4.3}%
