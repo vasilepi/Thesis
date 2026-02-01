@@ -1422,13 +1422,13 @@ p_x = \pi \cdot \frac{D_2}{N_G}
 
 Μπορεί λοιπόν να προκύψει η γραμμική απόσταση που διανύει ένα σημείο σε πλήρη περιστροφή του ατέρμονα (πρόωση):
 \begin{equation}
-L = p_x \cdot N_W
+L_x = p_x \cdot N_W
 \end{equation}
 
 
 Έτσι, προκύπτει η γωνία ελίκωσης του ατέρμονα:
 \begin{equation}
-\lambda = arctan(\frac{L}{\pi \cdot D_W})
+\lambda = arctan(\frac{L_x}{\pi \cdot D_W})
 \end{equation}
 
 Στη συνέχεια, προκύπτει η κάθετη γωνία πίεσης της οδόντωσης ακολουθώντας τις συστάσεις του συγγράματος των Shigley J. κ.ά. \cite{handbook} για την επιλογή της $\phi_n$ συναρτήσει της γωνίας ελίκωσης με σκοπό την αποφυγή του φαινομένου της υποκοπής:
@@ -1581,14 +1581,14 @@ MoS\; [\%] = \frac{\text{Nominal Motor Torque}}{\text{Required Torque}} - 1
 \begin{table}[H]
     \centering
     \rowcolors{2}{gray}{white}
-        \begin{tabular}{|c|c|c|c|c|}
+        \begin{tabular}{|c|c|c|c|c|c|}
         \hline
         \rowcolor{Dandelion}
-        Part Number & Shell Diameter & Wattage  & Max Continuous Torque & $MoS$\\
+        Part Number & Shell Diameter & Wattage  & Max Continuous Torque & Nominal Speed & $MoS$\\
         \hline
-        EC-i 579165 52 & $\varnothing 52\;mm$ &$180\; W$ & $0.423\; Nm$ & $16\%$\\
+        EC-i 579165 52 & $\varnothing 52\;mm$ &$180\; W$ & $0.423\; Nm$ & $4470\; rpm$ & $16\%$\\
         \hline
-        EC-i 666603 40 & $\varnothing 40\;mm$ &$130\; W$ & $0.343\; Nm$ & $46\%$ \\
+        EC-i 666603 40 & $\varnothing 40\;mm$ &$130\; W$ & $0.343\; Nm$ & $3910\; rpm$ & $46\%$ \\
         \hline
         \end{tabular}
     \caption{Επιλεγμένοι κινητήρες συνεχούς ρεύματος της πλατφόρμας V.L.A.D.}
