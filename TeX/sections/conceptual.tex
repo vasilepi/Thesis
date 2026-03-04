@@ -263,14 +263,14 @@
 \par Ωστόσο, για τα ερπυστριοφόρα ρομπότ και τα οχήματα υψηλής ευελιξίας, προκρίνεται η μέθοδος της αλλαγής διεύθυνσης μέσω ολίσθησης (Skid Steering) ή διαφορικής (Differential Steering). Στη πρώτη, οι τροχοί ή οι ερπύστριες της αριστερής και της δεξιάς πλευράς κινούνται ανεξάρτητα. Η στροφή επιτυγχάνεται εφαρμόζοντας γωνιακές ταχύτητες αντίθετης κατεύθυνσης στην κάθε πλευρά, δημιουργώντας έτσι μια ροπή εκτροπής που εξαναγκάζει το όχημα να περιστραφεί ολισθαίνοντας. Το σημαντικότερο πλεονέκτημα αυτής της μεθόδου είναι η δυνατότητα επίτευξης μηδενικής ακτίνας στροφής, επιτρέποντας στο ρομπότ να περιστρέφεται γύρω από τον γεωμετρικό του άξονα, χαρακτηριστικό κρίσιμο για την πλοήγηση σε στενούς χώρους. Η δε δεύτερη, επιτυγχάνεται μέσω χρήσης ίδιας κατεύθυνσης αλλά διαφορετικής σε μέτρο, γωνιακή ταχύτητα σε κάθε πλευρά της πλατφόρμας, με αποτέλεσμα αυτή να στρίβει ακολουθώντας μια γεωμετρική καμπύλη στροφής.
 \begin{figure}[H]
     \centering
-    \begin{subfigure}{0.45\linewidth}
+    \begin{subfigure}{0.28\linewidth}
         \centering
         \includegraphics[width=\linewidth]{media/diffSteer.png}
-        \caption{Διιαφορική αλλαγή κατεύθυνσης.}
+        \caption{Διαφορική αλλαγή κατεύθυνσης.}
         \label{fig:diffSteer}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}{0.45\linewidth}
+    \end{subfigure}%
+    \hspace{2cm}
+    \begin{subfigure}{0.28\linewidth}
         \centering
         \includegraphics[width=\linewidth]{media/skidSteer1.png}
         \caption{Αλλαγή κατεύθυνσης μέσω ολίσθησης.}
@@ -328,7 +328,7 @@
 \par Η χρήση ζεύγους οδοντωτών τροχών ατέρμονα-κορώνας, αποτελεί μια ιδιαίτερα έξυπνη λύση για τη μεταφορά της ροπής. Η συγκεκριμένη οδοντοκίνηση χαρακτηρίζεται από μεγάλους λόγος μετάδοσης επιτρέποντας την μεγάλη αύξηση της ροπής έναντι της ταχύτητας. Επίσης, αποτελούν εξαιρετικά χρήσιμη λύση για την εξοικονόμιση χώρου καθώς μεταφέρουν τη ροπή σε άξονες κάθετους μεταξύ τους. 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\linewidth]{media/plasmaCS.png}
+    \includegraphics[width=0.45\linewidth]{media/plasmaCS.png}
     \caption{Τομή συστήματος κίνησης Plasma RX \cite{plasmaRX19}.}
     \label{fig:plasmaCS}
 \end{figure}
@@ -556,26 +556,26 @@
 \end{figure}
 
 Η διάμετρος της δευτερεύουσας ατράκτου εκλέγεται $10\; mm$ και με βάση αυτήν επιλέγονται τα έδρανα κύλισης 61800 με διαστάσεις 10x19x5 mm. Σχεδιάεται και πλήμνη για την έδραση της ατράκτου στον βραχίονα ενώ ο τρόπος μεταφοράς ροπής από την δευτερεύουσα άτρακτο στον τροχό κρίνεται δίχως ενδιαφέρον για το συγκεκριμένο στάδιο του σχεδιασμού και θα αναλυθεί εκτενέστερα παρακάτω.
+\par Τέλος, διακρίνονται και εξαρτήματα της οπίσθιας σύνδεσης, όπου η άτρακτος εδράζεται στο σώμα του κιβωτίου κίνησης και περιστρέφεται μέσω του οπίσθιου τροχού της κύριας ερπύστριας.
+\newpage
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.7\linewidth]{media/systKin.png}
+    \includegraphics[width=\linewidth]{media/systKin.png}
     \caption{Διάκριση υποσυστημάτων κίνησης.}
     \label{fig:systKin}
 \end{figure}
 
-Τέλος, διακρίνονται και εξαρτήματα της οπίσθιας σύνδεσης, όπου η άτρακτος εδράζεται στο σώμα του κιβωτίου κίνησης και περιστρέφεται μέσω του οπίσθιου τροχού της κύριας ερπύστριας.
-
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\linewidth]{media/bomv1.png}
+    \includegraphics[width=\linewidth]{media/bomv1.png}
     \caption{Τομή συναρμολογημένης διάταξης κύριου συστήματος κίνησης \textit{v1}.}
     \label{fig:bomv1}
 \end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.4\linewidth]{media/bomsmallV1.png}
+    \includegraphics[width=0.6\linewidth]{media/bomsmallV1.png}
     \caption{Τομή συναρμολογημένης διάταξης δευτερεύοντος συστήματος κίνησης \textit{v1}.}
     \label{fig:bomsmallV1}
 \end{figure}
@@ -583,7 +583,7 @@
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.7\linewidth]{media/bombackV1.png}
+    \includegraphics[width=\linewidth]{media/bombackV1.png}
     \caption{Τομή συναρμολογημένης διάταξης οπίσθιας ατράκτου κύριου συστήματος κίνησης \textit{v1}.}
     \label{fig:bombackV1}
 \end{figure}

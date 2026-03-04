@@ -1,21 +1,21 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces \xpg@aux {}{greek}Διάφοροι ρομποτικοί διασώστες γαι ξεχωριστές λειτουργίες. Από αριστερά προς τα δεξιά: άμεσος ρομποτικός διασώστης, ρομπότ αρωγής ανθρώπινων αποστολών, ρομπότ έρευνας και ανίχνευσης.}}{4}{figure.caption.2}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces \xpg@aux {}{greek}Γενικότερη πορεία σχεδιασμού και σταδίων της μελέτης.}}{5}{figure.caption.4}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces \xpg@aux {}{greek}Δυνατότητες ανίχνευσης ρομποτικού διασώστη με βάση το διαφορετικό είδος δεδομένων.}}{6}{figure.caption.5}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces \xpg@aux {}{greek}Μηχανικά μέρη ερπυστρίας.}}{8}{figure.caption.7}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces \xpg@aux {}{greek}Σύγκριση διαφορετικών ειδών ερπύστριας.}}{8}{figure.caption.8}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces \xpg@aux {}{greek}Συστήματα κίνησης μεταβλητής γεωμετρίας.}}{9}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces \xpg@aux {}{greek}Σύστημα πολλαπλής ερπύστριας με περιστρεφόμενο βραχίονα \blx@tocontentsinit {0}\cite {multiJoint}.}}{9}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces \xpg@aux {}{greek}Σενάρια κίνησης συστήματος με διπλή ερπύστρια και περιστρεφόμενο βραχίονα (\textit {Flipper}).}}{10}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces \xpg@aux {}{greek}Αλληλουχία επαναφοράς πλατφόρμας από ανατροπή με τη χρήση των flippers.}}{10}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces \xpg@aux {}{greek}Μέθοδοι αλλαγής κατεύθυνσης πλατφόρμας με τέσσερεις τροχούς.}}{11}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces \xpg@aux {}{greek}Ρομποτική πλατφόρμα Plasma RX. Στα αριστερά το Xiphias και στα δεξιά το RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{11}{figure.caption.16}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces \xpg@aux {}{greek}Σύστημα κίνησης ερπύστριας και βραχιόνων της πλατφόρμας Plasma RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{12}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \xpg@aux {}{greek}Διάφοροι ρομποτικοί διασώστες γαι ξεχωριστές λειτουργίες. Από αριστερά προς τα δεξιά: άμεσος ρομποτικός διασώστης, ρομπότ αρωγής ανθρώπινων αποστολών, ρομπότ έρευνας και ανίχνευσης.}}{5}{figure.caption.2}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \xpg@aux {}{greek}Γενικότερη πορεία σχεδιασμού και σταδίων της μελέτης.}}{6}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \xpg@aux {}{greek}Δυνατότητες ανίχνευσης ρομποτικού διασώστη με βάση το διαφορετικό είδος δεδομένων.}}{7}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \xpg@aux {}{greek}Μηχανικά μέρη ερπυστρίας.}}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \xpg@aux {}{greek}Σύγκριση διαφορετικών ειδών ερπύστριας.}}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \xpg@aux {}{greek}Συστήματα κίνησης μεταβλητής γεωμετρίας.}}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \xpg@aux {}{greek}Σύστημα πολλαπλής ερπύστριας με περιστρεφόμενο βραχίονα \blx@tocontentsinit {0}\cite {multiJoint}.}}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \xpg@aux {}{greek}Σενάρια κίνησης συστήματος με διπλή ερπύστρια και περιστρεφόμενο βραχίονα (\textit {Flipper}).}}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \xpg@aux {}{greek}Αλληλουχία επαναφοράς πλατφόρμας από ανατροπή με τη χρήση των flippers.}}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \xpg@aux {}{greek}Μέθοδοι αλλαγής κατεύθυνσης πλατφόρμας με τέσσερεις τροχούς.}}{12}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces \xpg@aux {}{greek}Ρομποτική πλατφόρμα Plasma RX. Στα αριστερά το Xiphias και στα δεξιά το RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{12}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces \xpg@aux {}{greek}Σύστημα κίνησης ερπύστριας και βραχιόνων της πλατφόρμας Plasma RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{13}{figure.caption.18}%
 \contentsline {figure}{\numberline {2.13}{\ignorespaces \xpg@aux {}{greek}Τομή συστήματος κίνησης Plasma RX \blx@tocontentsinit {0}\cite {plasmaRX19}.}}{13}{figure.caption.19}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces \xpg@aux {}{greek}Αρχική γεωμετρία για τη πρώτη επανάληψη του ισοζυγίου μάζας.}}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces \xpg@aux {}{greek}Αρχική γεωμετρία για τη πρώτη επανάληψη του ισοζυγίου μάζας.}}{14}{figure.caption.21}%
 \contentsline {figure}{\numberline {2.15}{\ignorespaces \xpg@aux {}{greek}Αρχικό σκαρίφημα κιβωτίο κίνησης.}}{14}{figure.caption.22}%
-\contentsline {figure}{\numberline {2.16}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατο σχέδιο κύριας ατράκτου \textit {v1}.}}{14}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατο σχέδιο κύριας ατράκτου \textit {v1}.}}{15}{figure.caption.23}%
 \contentsline {figure}{\numberline {2.17}{\ignorespaces \xpg@aux {}{greek}Περιστρεφόμενος βραχίονας \textit {v1}.}}{15}{figure.caption.24}%
 \contentsline {figure}{\numberline {2.18}{\ignorespaces \xpg@aux {}{greek}Κιβώτιο κίνησης και σασί πλατφόρμας V.L.A.D. \textit {v1}.}}{16}{figure.caption.26}%
 \contentsline {figure}{\numberline {2.19}{\ignorespaces \xpg@aux {}{greek}Στοιχεία ερπύστριας \textit {v1}.}}{16}{figure.caption.27}%
@@ -24,45 +24,45 @@
 \contentsline {figure}{\numberline {2.22}{\ignorespaces \xpg@aux {}{greek}Σενάρια κίνησης πρώτης εκδοχής πλατφόρμας V.L.A.D.}}{17}{figure.caption.30}%
 \contentsline {figure}{\numberline {2.23}{\ignorespaces \xpg@aux {}{greek}Συνδεσμολογία κινητήρα και ατέρμονα κοχλία.}}{18}{figure.caption.32}%
 \contentsline {figure}{\numberline {2.24}{\ignorespaces \xpg@aux {}{greek}Δευτερεύων σύστημα κίνησης πλατφόρμας.}}{19}{figure.caption.33}%
-\contentsline {figure}{\numberline {2.25}{\ignorespaces \xpg@aux {}{greek}Διάκριση υποσυστημάτων κίνησης.}}{19}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces \xpg@aux {}{greek}Διάκριση υποσυστημάτων κίνησης.}}{20}{figure.caption.34}%
 \contentsline {figure}{\numberline {2.26}{\ignorespaces \xpg@aux {}{greek}Τομή συναρμολογημένης διάταξης κύριου συστήματος κίνησης \textit {v1}.}}{20}{figure.caption.35}%
-\contentsline {figure}{\numberline {2.27}{\ignorespaces \xpg@aux {}{greek}Τομή συναρμολογημένης διάταξης δευτερεύοντος συστήματος κίνησης \textit {v1}.}}{20}{figure.caption.36}%
-\contentsline {figure}{\numberline {2.28}{\ignorespaces \xpg@aux {}{greek}Τομή συναρμολογημένης διάταξης οπίσθιας ατράκτου κύριου συστήματος κίνησης \textit {v1}.}}{20}{figure.caption.37}%
-\contentsline {figure}{\numberline {2.29}{\ignorespaces \xpg@aux {}{greek}Αλληλουχία κινήσεων πλατφόρμας V.L.A.D. κατά την υπερπήδηση σκαλοπατιού.}}{23}{figure.caption.40}%
-\contentsline {figure}{\numberline {2.30}{\ignorespaces \xpg@aux {}{greek}Στατική ανάλυση κατά την πορεία σε κεκλιμένο επίπεδο της πλατφόρμας V.L.A.D.}}{23}{figure.caption.41}%
-\contentsline {figure}{\numberline {2.31}{\ignorespaces \xpg@aux {}{greek}Τομή κύριας ατράκτου κατά την πρώτη και δεύτερη επανάληψη του ισοζυγίου μάζας.}}{24}{figure.caption.42}%
-\contentsline {figure}{\numberline {2.32}{\ignorespaces \xpg@aux {}{greek}Δευτερεύον οδοντωτός τροχός κίνησης κατά την πρώτη και δεύτερη επανάληψη του ισοζυγίου μάζας.}}{25}{figure.caption.43}%
-\contentsline {figure}{\numberline {2.33}{\ignorespaces \xpg@aux {}{greek}Στρέψη κιβωτίων κίνησης ως προς το σώμα της πλατφόρμας.}}{25}{figure.caption.44}%
-\contentsline {figure}{\numberline {2.34}{\ignorespaces \xpg@aux {}{greek}Διάταξη σώματος πλατφόρμας κατά την πρώτη και δεύτερη επανάληψη του ισοζυγίου μάζας.}}{26}{figure.caption.45}%
-\contentsline {figure}{\numberline {2.35}{\ignorespaces \xpg@aux {}{greek}Διάγραμμα καταγραφής σήματος διάταξης μικροφώνων.}}{27}{figure.caption.46}%
-\contentsline {figure}{\numberline {2.36}{\ignorespaces \xpg@aux {}{greek}Στρατηγική τοποθέτηση αισθητήρων στη πλατφόρμα του V.L.A.D.}}{27}{figure.caption.47}%
-\contentsline {figure}{\numberline {2.37}{\ignorespaces \xpg@aux {}{greek}Ολικός αλγόριθμος εντοπισμού θυμάτων της πλατφόρμας V.L.A.D.}}{28}{figure.caption.48}%
-\contentsline {figure}{\numberline {2.38}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατο σχέδιο CAD του κάτω μέρους του σώματος της πλατφόρμας V.L.A.D.}}{29}{figure.caption.49}%
-\contentsline {figure}{\numberline {2.39}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατη απεικόνιση άνω μέρος σώματος και χώρου αποθήκευσης.}}{30}{figure.caption.50}%
-\contentsline {figure}{\numberline {2.40}{\ignorespaces \xpg@aux {}{greek}Τομή άνω μέρους σώματος.}}{30}{figure.caption.51}%
-\contentsline {figure}{\numberline {2.41}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης κύριου συτήματος κίνησης κατά την δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{31}{figure.caption.52}%
-\contentsline {figure}{\numberline {2.42}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης οπίσθιου συστήματος κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{32}{figure.caption.53}%
-\contentsline {figure}{\numberline {2.43}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης οπίσθιου συστήματος κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{32}{figure.caption.54}%
-\contentsline {figure}{\numberline {2.44}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης οπίσθιου συστήματος κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{33}{figure.caption.55}%
-\contentsline {figure}{\numberline {2.45}{\ignorespaces \xpg@aux {}{greek}Σταθεροποιητές άξονα ατέρμονα κοχλία του κύριου συστήματος κίνησης.}}{33}{figure.caption.56}%
-\contentsline {figure}{\numberline {2.46}{\ignorespaces \xpg@aux {}{greek}Τομές συναρμολογημένων διατάξεων άνω και κάτω σταθεροποιητών.}}{34}{figure.caption.57}%
-\contentsline {figure}{\numberline {2.47}{\ignorespaces \xpg@aux {}{greek}Τομές συναρμολογημένων διατάξεων συστημάτων κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{34}{figure.caption.58}%
-\contentsline {figure}{\numberline {2.48}{\ignorespaces \xpg@aux {}{greek}Λεπτομέρειες συστήματος κίνησης της πλατφόρμας V.L.A.D. κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{34}{figure.caption.59}%
-\contentsline {figure}{\numberline {2.49}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατη απεικόνιση πλατφόρμας V.L.A.D. κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{35}{figure.caption.60}%
-\contentsline {figure}{\numberline {2.50}{\ignorespaces \xpg@aux {}{greek}Μερικές λειτουργίες της πλατφόρμας V.L.A.D. κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{35}{figure.caption.61}%
-\contentsline {figure}{\numberline {2.51}{\ignorespaces \xpg@aux {}{greek}Υπολογισμός ροπής κινητήρα κύριας ερπύστριας.}}{37}{figure.caption.63}%
-\contentsline {figure}{\numberline {2.52}{\ignorespaces \xpg@aux {}{greek}Συνιστώσες ταχύτητας σε μια οδοντοκίνηση ατέρμονα - τροχού.}}{38}{figure.caption.64}%
-\contentsline {figure}{\numberline {2.53}{\ignorespaces \xpg@aux {}{greek}Συντελεστής τριβής συναρτήσει της ταχύτητας ολίσθησης. Θεωρείται επαρκής λίπανση. Η άνω καμπύλη αναφέρεται σε μη επισκληρημένα υλικά οδοντώσεων ενώ η κάτω σε βέλτιστα υλικά οδοντοκίνησης ατέρμονα - τροχού \blx@tocontentsinit {0}\cite {handbook}.}}{38}{figure.caption.65}%
-\contentsline {figure}{\numberline {2.54}{\ignorespaces \xpg@aux {}{greek}Υπολογισμός ροπής κινητήρα βραχίονα.}}{39}{figure.caption.66}%
-\contentsline {figure}{\numberline {2.55}{\ignorespaces \xpg@aux {}{greek}Χάρτες λειτουργίας κινητήρων συστήματος κίνησης.}}{40}{figure.caption.69}%
-\contentsline {figure}{\numberline {2.56}{\ignorespaces \xpg@aux {}{greek}Συνδεσμολογία οδηγών κινητήρων.}}{41}{figure.caption.70}%
-\contentsline {figure}{\numberline {2.57}{\ignorespaces \xpg@aux {}{greek}Κύκλωμα ηλεκτρονικών.}}{41}{figure.caption.71}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces \xpg@aux {}{greek}Τομή συναρμολογημένης διάταξης δευτερεύοντος συστήματος κίνησης \textit {v1}.}}{21}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces \xpg@aux {}{greek}Τομή συναρμολογημένης διάταξης οπίσθιας ατράκτου κύριου συστήματος κίνησης \textit {v1}.}}{21}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.29}{\ignorespaces \xpg@aux {}{greek}Αλληλουχία κινήσεων πλατφόρμας V.L.A.D. κατά την υπερπήδηση σκαλοπατιού.}}{24}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.30}{\ignorespaces \xpg@aux {}{greek}Στατική ανάλυση κατά την πορεία σε κεκλιμένο επίπεδο της πλατφόρμας V.L.A.D.}}{24}{figure.caption.41}%
+\contentsline {figure}{\numberline {2.31}{\ignorespaces \xpg@aux {}{greek}Τομή κύριας ατράκτου κατά την πρώτη και δεύτερη επανάληψη του ισοζυγίου μάζας.}}{25}{figure.caption.42}%
+\contentsline {figure}{\numberline {2.32}{\ignorespaces \xpg@aux {}{greek}Δευτερεύον οδοντωτός τροχός κίνησης κατά την πρώτη και δεύτερη επανάληψη του ισοζυγίου μάζας.}}{26}{figure.caption.43}%
+\contentsline {figure}{\numberline {2.33}{\ignorespaces \xpg@aux {}{greek}Στρέψη κιβωτίων κίνησης ως προς το σώμα της πλατφόρμας.}}{26}{figure.caption.44}%
+\contentsline {figure}{\numberline {2.34}{\ignorespaces \xpg@aux {}{greek}Διάταξη σώματος πλατφόρμας κατά την πρώτη και δεύτερη επανάληψη του ισοζυγίου μάζας.}}{27}{figure.caption.45}%
+\contentsline {figure}{\numberline {2.35}{\ignorespaces \xpg@aux {}{greek}Διάγραμμα καταγραφής σήματος διάταξης μικροφώνων.}}{28}{figure.caption.46}%
+\contentsline {figure}{\numberline {2.36}{\ignorespaces \xpg@aux {}{greek}Στρατηγική τοποθέτηση αισθητήρων στη πλατφόρμα του V.L.A.D.}}{28}{figure.caption.47}%
+\contentsline {figure}{\numberline {2.37}{\ignorespaces \xpg@aux {}{greek}Ολικός αλγόριθμος εντοπισμού θυμάτων της πλατφόρμας V.L.A.D.}}{29}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.38}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατο σχέδιο CAD του κάτω μέρους του σώματος της πλατφόρμας V.L.A.D.}}{30}{figure.caption.49}%
+\contentsline {figure}{\numberline {2.39}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατη απεικόνιση άνω μέρος σώματος και χώρου αποθήκευσης.}}{31}{figure.caption.50}%
+\contentsline {figure}{\numberline {2.40}{\ignorespaces \xpg@aux {}{greek}Τομή άνω μέρους σώματος.}}{31}{figure.caption.51}%
+\contentsline {figure}{\numberline {2.41}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης κύριου συτήματος κίνησης κατά την δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{32}{figure.caption.52}%
+\contentsline {figure}{\numberline {2.42}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης οπίσθιου συστήματος κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{33}{figure.caption.53}%
+\contentsline {figure}{\numberline {2.43}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης οπίσθιου συστήματος κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{33}{figure.caption.54}%
+\contentsline {figure}{\numberline {2.44}{\ignorespaces \xpg@aux {}{greek}Σκαρίφημα συναρμολογημένης διάταξης οπίσθιου συστήματος κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{34}{figure.caption.55}%
+\contentsline {figure}{\numberline {2.45}{\ignorespaces \xpg@aux {}{greek}Σταθεροποιητές άξονα ατέρμονα κοχλία του κύριου συστήματος κίνησης.}}{34}{figure.caption.56}%
+\contentsline {figure}{\numberline {2.46}{\ignorespaces \xpg@aux {}{greek}Τομές συναρμολογημένων διατάξεων άνω και κάτω σταθεροποιητών.}}{35}{figure.caption.57}%
+\contentsline {figure}{\numberline {2.47}{\ignorespaces \xpg@aux {}{greek}Τομές συναρμολογημένων διατάξεων συστημάτων κίνησης κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{35}{figure.caption.58}%
+\contentsline {figure}{\numberline {2.48}{\ignorespaces \xpg@aux {}{greek}Λεπτομέρειες συστήματος κίνησης της πλατφόρμας V.L.A.D. κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{35}{figure.caption.59}%
+\contentsline {figure}{\numberline {2.49}{\ignorespaces \xpg@aux {}{greek}Τρισδιάστατη απεικόνιση πλατφόρμας V.L.A.D. κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{36}{figure.caption.60}%
+\contentsline {figure}{\numberline {2.50}{\ignorespaces \xpg@aux {}{greek}Μερικές λειτουργίες της πλατφόρμας V.L.A.D. κατά τη δεύτερη επανάληψη του ισοζυγίου μάζας \textit {v2}.}}{36}{figure.caption.61}%
+\contentsline {figure}{\numberline {2.51}{\ignorespaces \xpg@aux {}{greek}Υπολογισμός ροπής κινητήρα κύριας ερπύστριας.}}{38}{figure.caption.63}%
+\contentsline {figure}{\numberline {2.52}{\ignorespaces \xpg@aux {}{greek}Συνιστώσες ταχύτητας σε μια οδοντοκίνηση ατέρμονα - τροχού.}}{39}{figure.caption.64}%
+\contentsline {figure}{\numberline {2.53}{\ignorespaces \xpg@aux {}{greek}Συντελεστής τριβής συναρτήσει της ταχύτητας ολίσθησης. Θεωρείται επαρκής λίπανση. Η άνω καμπύλη αναφέρεται σε μη επισκληρημένα υλικά οδοντώσεων ενώ η κάτω σε βέλτιστα υλικά οδοντοκίνησης ατέρμονα - τροχού \blx@tocontentsinit {0}\cite {handbook}.}}{39}{figure.caption.65}%
+\contentsline {figure}{\numberline {2.54}{\ignorespaces \xpg@aux {}{greek}Υπολογισμός ροπής κινητήρα βραχίονα.}}{40}{figure.caption.66}%
+\contentsline {figure}{\numberline {2.55}{\ignorespaces \xpg@aux {}{greek}Χάρτες λειτουργίας κινητήρων συστήματος κίνησης.}}{41}{figure.caption.69}%
+\contentsline {figure}{\numberline {2.56}{\ignorespaces \xpg@aux {}{greek}Συνδεσμολογία οδηγών κινητήρων.}}{42}{figure.caption.70}%
+\contentsline {figure}{\numberline {2.57}{\ignorespaces \xpg@aux {}{greek}Κύκλωμα ηλεκτρονικών.}}{42}{figure.caption.71}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces \xpg@aux {}{greek}Γεωμτρικές διαστάσεις οδοντοκίνησης ατέρμονα - τροχού \blx@tocontentsinit {0}\cite {khk}.}}{45}{figure.caption.73}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces \xpg@aux {}{greek}Ανάλυση δυνάμεων στην οδοντοκίνηση ατέρμονα - τροχού \blx@tocontentsinit {0}\cite {handbook}.}}{47}{figure.caption.76}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces \xpg@aux {}{greek}Ανάλυση δυνάμεων εδράνων κύλισης ατράκτου ατέρμονα.}}{48}{figure.caption.77}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces \xpg@aux {}{greek}Τρόποι ασφάλισης περικοχλίων ατράκτου του συστήματος κίνησης.}}{49}{figure.caption.79}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces \xpg@aux {}{greek}Συντελεστής εφαρμογής σύμφωνα με το DIN 3990/ISO 6336.}}{50}{figure.caption.81}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces \xpg@aux {}{greek}τρισδιάστατα μοντέλα CAD οδοντωτών ζεύγων ατέρμονα - τροχού για την ερπύστρια και τον περιστρεφόμενο βραχίονα της πλατφόρμας.}}{51}{figure.caption.83}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces \xpg@aux {}{greek}Ροή πληροφορίας μεταξύ πλατφόρμας V.L.A.D. και χειριστή.}}{52}{figure.caption.87}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \xpg@aux {}{greek}Γεωμτρικές διαστάσεις οδοντοκίνησης ατέρμονα - τροχού \blx@tocontentsinit {0}\cite {khk}.}}{46}{figure.caption.73}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \xpg@aux {}{greek}Ανάλυση δυνάμεων στην οδοντοκίνηση ατέρμονα - τροχού \blx@tocontentsinit {0}\cite {handbook}.}}{48}{figure.caption.76}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \xpg@aux {}{greek}Ανάλυση δυνάμεων εδράνων κύλισης ατράκτου ατέρμονα.}}{49}{figure.caption.77}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \xpg@aux {}{greek}Τρόποι ασφάλισης περικοχλίων ατράκτου του συστήματος κίνησης.}}{50}{figure.caption.79}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \xpg@aux {}{greek}Συντελεστής εφαρμογής σύμφωνα με το DIN 3990/ISO 6336.}}{51}{figure.caption.81}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \xpg@aux {}{greek}τρισδιάστατα μοντέλα CAD οδοντωτών ζεύγων ατέρμονα - τροχού για την ερπύστρια και τον περιστρεφόμενο βραχίονα της πλατφόρμας.}}{52}{figure.caption.83}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \xpg@aux {}{greek}Ροή πληροφορίας μεταξύ πλατφόρμας V.L.A.D. και χειριστή.}}{53}{figure.caption.87}%
 \addvspace {10\p@ }
