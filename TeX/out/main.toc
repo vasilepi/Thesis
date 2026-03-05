@@ -28,25 +28,25 @@
 \contentsline {subsection}{\numberline {2.3.4}Στρατηγική τοποθέτησης αισθητήρων και αλγοριθμική διαχείριση τους}{27}{subsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.3.5}Σχεδιασμός σώματος και αποθήκης ειδών πρώτης ανάγκης}{30}{subsection.2.3.5}%
 \contentsline {subsection}{\numberline {2.3.6}Αναθεώρηση σχεδιασμού συστήματος κίνησης και τελικό ισοζύγιο μάζας}{31}{subsection.2.3.6}%
-\contentsline {section}{\numberline {2.4}Ισοζύγιο ισχύος και εκλογή κινητήρων}{37}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Απαιτήσεις ροπής και εκλογή κινητήρων}{37}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Σχεδιασμός κυκλώματος ηλεκτρονικών}{41}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Επιλογή μπαταριών και εκτίμηση χρόνου λειτουργίας}{43}{subsection.2.4.3}%
-\contentsline {chapter}{\numberline {3}Διαμορφωτικός Σχεδιασμός}{45}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Σκοπός διαμορφωτικού σχεδιασμού}{45}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Ανάλυση μηχανολογικών στοιχείων}{45}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Ανάλυση οδοντωτών τροχών}{45}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Λοιπά μηχανολογικά στοιχεία}{47}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Ανάλυση στοιχείων με χρήση λογισμικού}{50}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας οδοντοκίνησεων}{50}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας εδράσεων}{52}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Επικοινωνία χειριστή με την πλατφόρμα}{53}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Συμπεράσματα και Μελλοντική Έρευνα}{54}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Διαχείριση όγκου εργασίας}{54}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Συμπεράσματα}{54}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Αποτίμηση Στόχων}{54}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Κριτική Αξιολόγηση και Περιορισμοί}{54}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Προτάσεις για μελλοντική έρευνα}{55}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Βελτιώσεις στον Υφιστάμενο Σχεδιασμό}{55}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Νέες Λειτουργικές Δυνατότητες}{55}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Επόμενα Βήματα Υλοποίησης}{55}{subsection.4.3.3}%
+\contentsline {section}{\numberline {2.4}Ισοζύγιο ισχύος και εκλογή κινητήρων}{40}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Απαιτήσεις ροπής και εκλογή κινητήρων}{40}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Σχεδιασμός κυκλώματος ηλεκτρονικών}{43}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Επιλογή μπαταριών και εκτίμηση χρόνου λειτουργίας}{46}{subsection.2.4.3}%
+\contentsline {chapter}{\numberline {3}Διαμορφωτικός Σχεδιασμός}{48}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Σκοπός διαμορφωτικού σχεδιασμού}{48}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Ανάλυση μηχανολογικών στοιχείων}{48}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Ανάλυση οδοντωτών τροχών}{48}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Λοιπά μηχανολογικά στοιχεία}{50}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Ανάλυση στοιχείων με χρήση λογισμικού}{53}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας οδοντοκίνησεων}{53}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Εισαγωγή παραμέτρων και συντελεστές ασφαλείας εδράσεων}{55}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Επικοινωνία χειριστή με την πλατφόρμα}{56}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Συμπεράσματα και Μελλοντική Έρευνα}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Διαχείριση όγκου εργασίας}{57}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Συμπεράσματα}{57}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Αποτίμηση Στόχων}{57}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Κριτική Αξιολόγηση και Περιορισμοί}{57}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Προτάσεις για μελλοντική έρευνα}{58}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Βελτιώσεις στον Υφιστάμενο Σχεδιασμό}{58}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Νέες Λειτουργικές Δυνατότητες}{58}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Επόμενα Βήματα Υλοποίησης}{58}{subsection.4.3.3}%
