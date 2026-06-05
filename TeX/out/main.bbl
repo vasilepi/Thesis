@@ -1,0 +1,815 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{mobileRescueRobot}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=b5db3875b26b3d883c88fa6536f5812b}{%
+           family={A.\bibnamedelimi Moosavian},
+           familyi={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={S.\bibnamedelimi Ali},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=702e041349bbbfa7323aee9fad1f733c}{%
+           family={Semsarilar},
+           familyi={S\bibinitperiod},
+           given={Hesam},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e3099a3ade455abcc7647c96c612565c}{%
+           family={Kalantari},
+           familyi={K\bibinitperiod},
+           given={Arash},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \strng{fullhash}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \strng{fullhashraw}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \strng{bibnamehash}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \strng{authorbibnamehash}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \strng{authornamehash}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \strng{authorfullhash}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \strng{authorfullhashraw}{8fe1a5ffce6923a8ad4bcc97c24d0192}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2006 IEEE/RSJ International Conference on Intelligent Robots and Systems}
+      \field{title}{Design and Manufacturing of a Mobile Rescue Robot}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{3982\bibrangedash 3987}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/IROS.2006.281835
+      \endverb
+      \keyw{Mobile robots;Solid modeling;Mathematical model;Pulp manufacturing;Kinematics;Mechanical factors;Shape;Finite element methods;Equations;Robotic assembly;Robotics;Tele-operative;Locomotion;Mechanisms}
+    \endentry
+    \entry{plasmaRX19}{article}{}{}
+      \name{author}{16}{}{%
+        {{hash=b3fe69520ff629f8e03835e78cedf547}{%
+           family={Chuengsatiansup},
+           familyi={C\bibinitperiod},
+           given={Kamol},
+           giveni={K\bibinitperiod}}}%
+        {{hash=820764e5beba598e67a81d9138def8a0}{%
+           family={Sajjapongse},
+           familyi={S\bibinitperiod},
+           given={Krittanai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=572a63bdcdac7c0f08e4b747052fe8b1}{%
+           family={Kruapraditsiri},
+           familyi={K\bibinitperiod},
+           given={Phartara},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cc007f99de0cc2dcf043496bacc187e3}{%
+           family={Chanma},
+           familyi={C\bibinitperiod},
+           given={Chanin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2f6bd39275c9d09bffecf631d3df46be}{%
+           family={Termthanasombat},
+           familyi={T\bibinitperiod},
+           given={Nawarat},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f29467101777cf76023876ee78b40c53}{%
+           family={Suttasupa},
+           familyi={S\bibinitperiod},
+           given={Yuttana},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2cb03d53eaa0c27a8c79850b207db37e}{%
+           family={Sattaratnamai},
+           familyi={S\bibinitperiod},
+           given={Sukhum},
+           giveni={S\bibinitperiod}}}%
+        {{hash=caa9fa6e23e401308cb23932f1660c69}{%
+           family={Pongkaew},
+           familyi={P\bibinitperiod},
+           given={Ekkaluk},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c6a7c777fcb2a3b321db8f230d841618}{%
+           family={Udsatid},
+           familyi={U\bibinitperiod},
+           given={Pakorn},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f7641f28a71655ce75f6dff56e9b3332}{%
+           family={Hattha},
+           familyi={H\bibinitperiod},
+           given={Borirak},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b5f88c3cbd0658470db7a12e33c9406a}{%
+           family={Wibulpolprasert},
+           familyi={W\bibinitperiod},
+           given={Panut},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9bf3aa4ac517bdd0e1a27b71c1530748}{%
+           family={Usaphapanus},
+           familyi={U\bibinitperiod},
+           given={Prasit},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ac2e492d613a8b4663246e84c3d425c0}{%
+           family={Tulyanon},
+           familyi={T\bibinitperiod},
+           given={Nantinee},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4d380c8641143083e39e14bf98f82dc7}{%
+           family={Wongsaisuwan},
+           familyi={W\bibinitperiod},
+           given={Manop},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3c062eacf3e34c7a9d5f2e76ff0a3e95}{%
+           family={Wannasuphoprasit},
+           familyi={W\bibinitperiod},
+           given={Witaya},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f1841b14c9d6aa7ab8568491c245bd71}{%
+           family={Chongstitvatana},
+           familyi={C\bibinitperiod},
+           given={Prabhas},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2922a65aba0e652299151806a82527c0}
+      \strng{fullhash}{19a1c9eab036867574c051c19f061aed}
+      \strng{fullhashraw}{19a1c9eab036867574c051c19f061aed}
+      \strng{bibnamehash}{2922a65aba0e652299151806a82527c0}
+      \strng{authorbibnamehash}{2922a65aba0e652299151806a82527c0}
+      \strng{authornamehash}{2922a65aba0e652299151806a82527c0}
+      \strng{authorfullhash}{19a1c9eab036867574c051c19f061aed}
+      \strng{authorfullhashraw}{19a1c9eab036867574c051c19f061aed}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{Plasma-RX: Autonomous Rescue robots}
+      \field{year}{2009}
+      \field{pages}{1986\bibrangedash 1990}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ROBIO.2009.4913305
+      \endverb
+    \endentry
+    \entry{designArgyris}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7cdade06d3a6542e63bf2c46b2be9ba7}{%
+           family={Dentsoras},
+           familyi={D\bibinitperiod},
+           given={Argiris},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Εκδ. Τζιόλα}%
+      }
+      \strng{namehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{fullhash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{fullhashraw}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{bibnamehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authorbibnamehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authornamehash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authorfullhash}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \strng{authorfullhashraw}{7cdade06d3a6542e63bf2c46b2be9ba7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{subtitle}{Μια Μεθοδολογική Προσέγγιση Για Σχεδιαστές Μηχανικούς}
+      \field{title}{Εισαγωγή Στη Θεωρία Σχεδιασμού}
+      \field{year}{2022}
+    \endentry
+    \entry{unmanned}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=78c74373e6cb5fffb84c8aa037ddaee4}{%
+           family={Enshasy},
+           familyi={E\bibinitperiod},
+           given={Hesham},
+           giveni={H\bibinitperiod}}}%
+        {{hash=00ccf25c8fcea84e90e1f5ea7a324086}{%
+           family={Al-Badi},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={Ibrahim},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7fe72abc6ea5faf1c96c34486a161e73}{%
+           family={Al-Saleh},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Muath},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8e61bd075ad53052d2763206546615ee}{%
+           family={Bu-Shalf},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Abdulrahman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=72813645873a36aff334f5f98fa3cd4a}{%
+           family={Al-Dosseri},
+           familyi={A\bibinithyphendelim D\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod}}}%
+        {{hash=603601ae8a032ec3be98a58b918585ef}{%
+           family={Abu\bibnamedelima Al-Haija},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinithyphendelim H\bibinitperiod},
+           given={Qasem},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{4485d1df51612a860eb909bfa08bdc46}
+      \strng{fullhash}{013185609b80293dc1de39973f9f1ebc}
+      \strng{fullhashraw}{013185609b80293dc1de39973f9f1ebc}
+      \strng{bibnamehash}{4485d1df51612a860eb909bfa08bdc46}
+      \strng{authorbibnamehash}{4485d1df51612a860eb909bfa08bdc46}
+      \strng{authornamehash}{4485d1df51612a860eb909bfa08bdc46}
+      \strng{authorfullhash}{013185609b80293dc1de39973f9f1ebc}
+      \strng{authorfullhashraw}{013185609b80293dc1de39973f9f1ebc}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computer Science and Technology}
+      \field{month}{02}
+      \field{title}{A Comprehensive Design of Unmanned Ground Search and Rescue Robot}
+      \field{volume}{14}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{52\bibrangedash 80}
+      \range{pages}{29}
+    \endentry
+    \entry{multiJoint}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=e36b80dd2226c3e3af2a6dd60f270fac}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Xin’an},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7e75aa33ec03356e967fd770cb0557ff}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={Xiaorong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ec190cbc4661281d1b4f4a762d84c998}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yanlong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=dabcba1c44248bd364ea9ad6f9e428b1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jingmin},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d5cc67478de0f3eb84084571f5bc781}
+      \strng{fullhash}{709c6e15490a1ea1c80ac6ada9a39182}
+      \strng{fullhashraw}{709c6e15490a1ea1c80ac6ada9a39182}
+      \strng{bibnamehash}{8d5cc67478de0f3eb84084571f5bc781}
+      \strng{authorbibnamehash}{8d5cc67478de0f3eb84084571f5bc781}
+      \strng{authornamehash}{8d5cc67478de0f3eb84084571f5bc781}
+      \strng{authorfullhash}{709c6e15490a1ea1c80ac6ada9a39182}
+      \strng{authorfullhashraw}{709c6e15490a1ea1c80ac6ada9a39182}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The tracked-wheeled mobile robot has gained significant attention in military, agricultural, construction, and other fields due to its exceptional mobility and off-road capabilities. Therefore, it is an ideal choice for reconnaissance and exploration tasks. In this study, we proposed a multi-jointed tracked-wheeled compound mobile robot that can overcome various terrains and obstacles. Based on the characteristics of multi-jointed robots, we designed two locomotion modes for the robot to climb stairs and established the kinematics/dynamics equations for its land movement. We evaluated the robot’s stability during slope climbing, its static stability during stair climbing, and its ability to cross trenches. Based on our evaluation results, we determined the key conditions for the robot to overcome obstacles, the maximum height it can climb stairs, and the maximum width it can cross trenches. Additionally, we developed a simulation model to verify the robot’s performance in different terrains and the reliability of its stair-climbing gait. The simulation results demonstrate that our multi-jointed tracked-wheeled compound mobile robot exhibits excellent reliability and adaptability in complex terrain, indicating broad application prospects in various fields and space missions.}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{12}
+      \field{title}{Design and Ground Performance Evaluation of a Multi-Joint Wheel-Track Composite Mobile Robot for Enhanced Terrain Adaptability}
+      \field{volume}{13}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/app13127270
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/13/12/7270
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/13/12/7270
+      \endverb
+    \endentry
+    \entry{mobileRobots}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=cc9bc3a6f680452cadefa621348b49a7}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Jesús\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=761b7faf1104070a710a8f8781a714ab}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Franklyn\bibnamedelima G.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \strng{fullhash}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \strng{fullhashraw}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \strng{bibnamehash}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \strng{authorbibnamehash}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \strng{authornamehash}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \strng{authorfullhash}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \strng{authorfullhashraw}{bfbf83fc7b8c33188ba0b4fe39037ff8}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ground mobile robots operating in outdoor environments face multiple challenges, being overcoming obstacles on uneven terrain a prominent one. This challenging task has been addressed by numerous researchers who have developed robots employing various strategies, all aimed at efficiently overcoming increasingly higher obstacles. This article describes 108 robots designed for this purpose, incorporating the principle of rolling for locomotion and obstacle overcoming. These robots have been categorized into six major groups based on their operating principle and strategy for overcoming obstacles. After conducting a meticulous review and comparison, it has been determined that both the definition of the strategy robot will use to overcome an obstacle and the optimized robot design from the early stages of its development through clearly established requirements are the elements that hold the greatest significance in enabling a mobile robot to efficiently overcome an obstacle. In this regard, specific requirements and parameters have been identified that must be considered in the design of the robot to fulfill its purpose. Among these, key considerations include dimensional optimization, robustness, adaptability, energy efficiency, sensory capability, and appropriate navigability.}
+      \field{issn}{2666-3597}
+      \field{journaltitle}{Forces in Mechanics}
+      \field{title}{Mobile rolling robots designed to overcome obstacles: A review}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{100283}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.finmec.2024.100283
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666359724000295
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666359724000295
+      \endverb
+      \keyw{Mobile robots with rolling,Obstacle overcoming,Stair climbing,Navigability,Tip-over stability,Motion control}
+    \endentry
+    \entry{karo}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=dd142aa00f0b59a7c6207cfc1045cef7}{%
+           family={Habibian},
+           familyi={H\bibinitperiod},
+           given={Soheil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=65c9b79425f3ef88c5d9b9f1265138bd}{%
+           family={Dadvar},
+           familyi={D\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=303f7e509e0b953d8a32fbc1a7847c5e}{%
+           family={Peykari},
+           familyi={P\bibinitperiod},
+           given={Behzad},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3cb3998c3668a9582db23761609961e7}{%
+           family={Hosseini},
+           familyi={H\bibinitperiod},
+           given={Alireza},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ff0893af45ce80484ca5f5b582a234d8}{%
+           family={Salehzadeh},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi Hossein},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=fdff24d72f4450c9fb5d42f3933e669d}{%
+           family={Hosseini},
+           familyi={H\bibinitperiod},
+           given={Alireza\bibnamedelimb H.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=73b0764027f62b629dc05c54a7dc4073}{%
+           family={Najafi},
+           familyi={N\bibinitperiod},
+           given={Farshid},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{19f7785736c0be1b7d8f6b008eaad9dd}
+      \strng{fullhash}{0e1730574c6d3e56d80819cab6cf0c7a}
+      \strng{fullhashraw}{0e1730574c6d3e56d80819cab6cf0c7a}
+      \strng{bibnamehash}{19f7785736c0be1b7d8f6b008eaad9dd}
+      \strng{authorbibnamehash}{19f7785736c0be1b7d8f6b008eaad9dd}
+      \strng{authornamehash}{19f7785736c0be1b7d8f6b008eaad9dd}
+      \strng{authorfullhash}{0e1730574c6d3e56d80819cab6cf0c7a}
+      \strng{authorfullhashraw}{0e1730574c6d3e56d80819cab6cf0c7a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2197-4225}
+      \field{journaltitle}{ROBOMECH Journal}
+      \field{number}{1}
+      \field{title}{Design and implementation of a maxi-sized mobile robot (Karo) for rescue missions}
+      \field{volume}{8}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40648-020-00188-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s40648-020-00188-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s40648-020-00188-9
+      \endverb
+    \endentry
+    \entry{operations}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=3600111f3a6eff17d3b07025bb6d980d}{%
+           family={Kyriazis},
+           familyi={K\bibinitperiod},
+           given={Emmanouil},
+           giveni={E\bibinitperiod}}}%
+        {{hash=afe7884b17d1da4159d650988e3136dd}{%
+           family={Zisiadis},
+           familyi={Z\bibinitperiod},
+           given={Anastasios},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{4}{%
+        {European Centre on Prevention}%
+        {Forecasting of Earthquakes (ECPFE) \& Earthquake Planning}%
+        {Protection Organisation (EPPO), Ministry of Environment}%
+        {Public Works}%
+      }
+      \list{location}{1}{%
+        {Athens, Greece}%
+      }
+      \strng{namehash}{9d8590afe613178c3770d5e226119713}
+      \strng{fullhash}{9d8590afe613178c3770d5e226119713}
+      \strng{fullhashraw}{9d8590afe613178c3770d5e226119713}
+      \strng{bibnamehash}{9d8590afe613178c3770d5e226119713}
+      \strng{authorbibnamehash}{9d8590afe613178c3770d5e226119713}
+      \strng{authornamehash}{9d8590afe613178c3770d5e226119713}
+      \strng{authorfullhash}{9d8590afe613178c3770d5e226119713}
+      \strng{authorfullhashraw}{9d8590afe613178c3770d5e226119713}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Search \& Rescue Operations in Earthquakes: Technical Handbook No. 1}
+      \field{type}{techreport}
+      \field{year}{1999}
+      \verb{urlraw}
+      \verb https://oasp.gr/sites/default/files/library/2021-02/Search%20%26%20Rescue%20Operations%20in%20Earthequakes.pdf
+      \endverb
+      \verb{url}
+      \verb https://oasp.gr/sites/default/files/library/2021-02/Search%20%26%20Rescue%20Operations%20in%20Earthequakes.pdf
+      \endverb
+    \endentry
+    \entry{standardsForUSARRobots}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=0aa7dc35da10607bee6551844fb62701}{%
+           family={Messina},
+           familyi={M\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+        {{hash=eb1470b412b428f380e280b25c367214}{%
+           family={Jacoff},
+           familyi={J\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Proceedings of the SPIE Defense}%
+        {Security Symposium, Orlando, FL}%
+      }
+      \strng{namehash}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \strng{fullhash}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \strng{fullhashraw}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \strng{bibnamehash}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \strng{authorbibnamehash}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \strng{authornamehash}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \strng{authorfullhash}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \strng{authorfullhashraw}{f5716b3b4e94a6fd3a184dbcea41e21d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{Performance Standards for Urban Search and Rescue Robots}
+      \field{year}{2006}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=822695
+      \endverb
+      \verb{url}
+      \verb https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=822695
+      \endverb
+    \endentry
+    \entry{resquake}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=c4c6616f4d7afd4d3c98d36b3ec9d6ff}{%
+           family={Moosavian},
+           familyi={M\bibinitperiod},
+           given={S.A.A.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e3099a3ade455abcc7647c96c612565c}{%
+           family={Kalantari},
+           familyi={K\bibinitperiod},
+           given={Arash},
+           giveni={A\bibinitperiod}}}%
+        {{hash=702e041349bbbfa7323aee9fad1f733c}{%
+           family={Semsarilar},
+           familyi={S\bibinitperiod},
+           given={Hesam},
+           giveni={H\bibinitperiod}}}%
+        {{hash=107d13dbd36e0ebaed7a2bbf29ba4b15}{%
+           family={Aboosaeedan},
+           familyi={A\bibinitperiod},
+           given={Ehsan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5afca21da3e38aca874c59a9b11afd53}{%
+           family={Mihankhah},
+           familyi={M\bibinitperiod},
+           given={Ehsan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{74598d1898a36ffb1736fe9c8239235f}
+      \strng{fullhash}{5bcdf5d74b59e407bc66b1fc8d85167f}
+      \strng{fullhashraw}{5bcdf5d74b59e407bc66b1fc8d85167f}
+      \strng{bibnamehash}{74598d1898a36ffb1736fe9c8239235f}
+      \strng{authorbibnamehash}{74598d1898a36ffb1736fe9c8239235f}
+      \strng{authornamehash}{74598d1898a36ffb1736fe9c8239235f}
+      \strng{authorfullhash}{5bcdf5d74b59e407bc66b1fc8d85167f}
+      \strng{authorfullhashraw}{5bcdf5d74b59e407bc66b1fc8d85167f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mechanical Design - J MECH DESIGN}
+      \field{month}{08}
+      \field{title}{ResQuake: A Tele-Operative Rescue Robot}
+      \field{volume}{131}
+      \field{year}{2009}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1115/1.3179117
+      \endverb
+    \endentry
+    \entry{conceptual}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=394ae9b1f3b064b377d5de54c80472f7}{%
+           family={Naman},
+           familyi={N\bibinitperiod},
+           given={Sharma},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{394ae9b1f3b064b377d5de54c80472f7}
+      \strng{fullhash}{394ae9b1f3b064b377d5de54c80472f7}
+      \strng{fullhashraw}{394ae9b1f3b064b377d5de54c80472f7}
+      \strng{bibnamehash}{394ae9b1f3b064b377d5de54c80472f7}
+      \strng{authorbibnamehash}{394ae9b1f3b064b377d5de54c80472f7}
+      \strng{authornamehash}{394ae9b1f3b064b377d5de54c80472f7}
+      \strng{authorfullhash}{394ae9b1f3b064b377d5de54c80472f7}
+      \strng{authorfullhashraw}{394ae9b1f3b064b377d5de54c80472f7}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3}
+      \field{journaltitle}{International Journal of Mechanical and Production Engineering Research and Development}
+      \field{month}{06}
+      \field{title}{Conceptual Design of an Autonomous Rescue Bot for Assistance During Natural Disaster Rescue Operations}
+      \field{volume}{10}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{b2p2}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6c68629e7c9be22cbb889d8d6595e55d}{%
+           family={Paillat},
+           familyi={P\bibinitperiod},
+           given={Jean-Luc},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=4c4c3cc761fd25a7dfeba4e9f6469d68}{%
+           family={Lucidarme},
+           familyi={L\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ea53257f0f47ff823faa4cabf0ba465e}{%
+           family={Hardouin},
+           familyi={H\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{fullhash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{fullhashraw}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{bibnamehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authorbibnamehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authornamehash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authorfullhash}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \strng{authorfullhashraw}{a0cd55052f48889cf74f2fc9ef41df4f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Robotics}
+      \field{month}{01}
+      \field{title}{Original Design of an Unmanned Ground Vehicle for Exploration in Rough Terrain}
+      \field{volume}{24}
+      \field{year}{2010}
+      \field{pages}{255\bibrangedash 276}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1163/016918609X12586221919482
+      \endverb
+    \endentry
+    \entry{aradRobot}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a254a91c1f49cefa71aba49294d9534e}{%
+           family={Sharifibamrood},
+           familyi={S\bibinitperiod},
+           given={Mohammadreza},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e358fd5d934ae54e2be0f1ab9094cb20}{%
+           family={Mafi},
+           familyi={M\bibinitperiod},
+           given={Majid},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc4e19433ba48117998fd89043ab8f37}
+      \strng{fullhash}{bc4e19433ba48117998fd89043ab8f37}
+      \strng{fullhashraw}{bc4e19433ba48117998fd89043ab8f37}
+      \strng{bibnamehash}{bc4e19433ba48117998fd89043ab8f37}
+      \strng{authorbibnamehash}{bc4e19433ba48117998fd89043ab8f37}
+      \strng{authornamehash}{bc4e19433ba48117998fd89043ab8f37}
+      \strng{authorfullhash}{bc4e19433ba48117998fd89043ab8f37}
+      \strng{authorfullhashraw}{bc4e19433ba48117998fd89043ab8f37}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science and Innovation}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{Designing and Manufacturing the Arad Rescue Robot and Evaluating Its Efficiency for USAR Missions}
+      \field{volume}{16}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{83\bibrangedash 94}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.15407/scine16.01.083
+      \endverb
+      \verb{urlraw}
+      \verb https://nasu-periodicals.org.ua/index.php/science/article/view/2139
+      \endverb
+      \verb{url}
+      \verb https://nasu-periodicals.org.ua/index.php/science/article/view/2139
+      \endverb
+    \endentry
+    \entry{handbook}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=8e5b3743b856af1e9a5f5927000b9ff9}{%
+           family={Shigley},
+           familyi={S\bibinitperiod},
+           given={Joseph\bibnamedelima Edward},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cab93e95b8ba498feb7ea8223f2eac28}{%
+           family={Mischke},
+           familyi={M\bibinitperiod},
+           given={Charles\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9b17f91128e7cf37189e79fbc3ef8cc9}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Thomas\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{551558176734f0340516e9c39d5ad041}
+      \strng{fullhash}{551558176734f0340516e9c39d5ad041}
+      \strng{fullhashraw}{551558176734f0340516e9c39d5ad041}
+      \strng{bibnamehash}{551558176734f0340516e9c39d5ad041}
+      \strng{authorbibnamehash}{551558176734f0340516e9c39d5ad041}
+      \strng{authornamehash}{551558176734f0340516e9c39d5ad041}
+      \strng{authorfullhash}{551558176734f0340516e9c39d5ad041}
+      \strng{authorfullhashraw}{551558176734f0340516e9c39d5ad041}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Standard Handbook of Machine Design}
+      \field{year}{2004}
+    \endentry
+    \entry{khk}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://khkgears.net/new/gear_knowledge/gear_technical_reference/surface-durability-worm-gear.html}}
+      \field{note}{[Accessed 16-11-2025]}
+      \field{title}{{S}urface {D}urability of {W}orm {G}ear | {K}{H}{K} --- khkgears.net}
+    \endentry
+    \entry{transWheel}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=a42ffc6566bc74fce9dd129df41b29b1}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Yuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1ad6518b007b36cf5c66fc92460f6d66}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Chunyan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9007cb34e2e8709b394ffa5f43a293b8}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Yusheng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3d84a0588d65b7d38eb25ebe6036a58e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Manhong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0a557b36e7345b724336ba9e4f1c2f60}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Minglu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b89270fdeb487898739d9bc001e1656}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Dongle},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{fullhash}{f624e8c80afd3eb6c66e02410c50765c}
+      \strng{fullhashraw}{f624e8c80afd3eb6c66e02410c50765c}
+      \strng{bibnamehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{authorbibnamehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{authornamehash}{216d77cded5ebcdc366df4eb650c75ca}
+      \strng{authorfullhash}{f624e8c80afd3eb6c66e02410c50765c}
+      \strng{authorfullhashraw}{f624e8c80afd3eb6c66e02410c50765c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this research, we propose a novel wheel-legged mobile robot to address the problems of insufficient obstacle-crossing performance and poor motion flexibility of mobile robots in non-structural environments. Firstly, we designed the transformable wheel mechanism and tail adaptive mechanism. Secondly, the kinematic model of the robot is established and solved by analyzing the whole motion and wheel-legged switching motion for the operation requirements under different road conditions. By synthesizing the constraint relationships among the modules and analyzing the robot’s obstacle-crossing abilities, we systematically established the mechanical model of the robot when it encounters obstacles. Thirdly, we studied the stability of the robot based on the stable cone method in the case of slope and unilateral transformation wheel deployment and achieved the tipping condition in the critical state. Finally, we used ADAMS software to simulate and analyze the driving process of the robot in various types of terrain and obstacles in order to verify that it has superior performance through obstacles and motion flexibility. The analysis shows that the robot can passively adapt to various complex and variable obstacle-filled terrains with obstacle heights which are much higher than its center of gravity range. The results of the study can provide a reference for the structural optimization and the obstacle-crossing performance improvement of mobile robots.}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{23}
+      \field{title}{Analysis of Motion Characteristics and Stability of Mobile Robot Based on a Transformable Wheel Mechanism}
+      \field{volume}{12}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/app122312348
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/12/23/12348
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/12/23/12348
+      \endverb
+    \endentry
+    \entry{featuresOfRescueRobots}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=9c4d1f9421f0ef5c93b6fe52bef0cbb0}{%
+           family={Tunwannarux},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6642a6f4c7f53242d9c3e4b5fd5aed98}{%
+           family={Hirunyaphisutthikul},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \strng{fullhash}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \strng{fullhashraw}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \strng{bibnamehash}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \strng{authorbibnamehash}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \strng{authornamehash}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \strng{authorfullhash}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \strng{authorfullhashraw}{d88dddbf2e2670b5b5b4963d0b86d63e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE International Symposium on Communications and Information Technology, 2005. ISCIT 2005.}
+      \field{title}{Design features and characteristics of a rescue robot}
+      \field{volume}{2}
+      \field{year}{2005}
+      \true{nocite}
+      \field{pages}{1083\bibrangedash 1087}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ISCIT.2005.1567056
+      \endverb
+      \keyw{Temperature sensors;Infrared sensors;Mobile robots;Robot sensing systems;Robot vision systems;Cameras;Computerized monitoring;Remote monitoring;Radio control;Arm}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

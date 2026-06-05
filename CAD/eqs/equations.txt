@@ -1,0 +1,4 @@
+﻿"wormL-D" = 12mm
+"wormR-D" = 15mm
+"wormGearL-D" = 46mm
+"wormGearR-D" = 50mm
